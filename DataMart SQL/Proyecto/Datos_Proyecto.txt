@@ -1,0 +1,1136 @@
+Anno	Primer Apellido	Segundo Apellido	Nombre	Colegio de procedencia	Resultado final	Resolución	Especialidad
+2011	Arley	Montero	Sharon Michelle	Unidad Pedagógica de San Diego	74.77	No Admitido	Contabilidad Costos
+2011	Brenes	González	Mariana	Colegio de San Luis Gonzaga	89.83	Admitido	Banca y Finanzas
+2011	Mejía	Elizondo	Marco Antonio	Unidad Pedagógica de San Diego	86.47	Admitido	Banca y Finanzas
+2011	Segura	López	Tatiana	Unidad Pedagógica de San Diego	86.19	Admitido	Banca y Finanzas
+2011	Fernández	Sánchez	Daniela	Colegio Seráfico San Francisco	84.06	Admitido	Banca y Finanzas
+2011	Fonseca	Mora	Susan Nicole	C. T. P. de Granadilla	83.35	Admitido	Banca y Finanzas
+2011	Sánchez	Vargas	María	Colegio Alejandro Quesada Ramírez	79.58	No Admitido	Banca y Finanzas
+2011	Fernández	Vargas	Lucía	Unidad Pedagógica de San Diego	78.29	No Admitido	Banca y Finanzas
+2011	Flores	Espinales	Jonathan	Unidad Pedagógica de San Diego	77.40	No Admitido	Banca y Finanzas
+2011	Vargas	Sandí	Jessica	Unidad Pedagógica de San Diego	77.38	No Admitido	Banca y Finanzas
+2011	Aguilar	Arce	Kerlyn 	Liceo José Joaquín Vargas Calvo	75.69	No Admitido	Banca y Finanzas
+2011	Jiménez	Arias	Linis Dayana	Unidad Pedagógica de San Diego	75.31	No Admitido	Banca y Finanzas
+2011	Jiménez	Ortega	Yendry Daniela	Colegio Alejandro Quesada Ramírez	90.30	Admitido	Contabilidad y Finanzas
+2011	Montoya	Calderón	Glenda	Liceo Nuevo de San Diego	88.80	Admitido	Contabilidad y Finanzas
+2011	Cedeño	Campos	Johanna	C. T. P. de Granadilla	85.31	Admitido	Contabilidad y Finanzas
+2011	Artavia	Aguilar	Rosa María	Liceo José Joaquín Vargas Calvo	82.90	Admitido	Contabilidad y Finanzas
+2011	Alpìzar	Barrantes	Gustavo	IPEC	82.47	Admitido	Contabilidad y Finanzas
+2011	Cervantes	Monge	Jenifer	Liceo Nuevo de San Diego	81.62	Admitido	Contabilidad y Finanzas
+2011	Campos	Barquero	Arlene	Liceo de Curridabat	79.53	Admitido	Contabilidad y Finanzas
+2011	Mena	Mesén	Tahiry	Liceo Luis Dobles Segreda	78.75	Admitido	Contabilidad y Finanzas
+2011	Barrantes	Chaves	José Mario	Unidad Pedagógica de San Diego	78.48	Admitido	Contabilidad y Finanzas
+2011	Rodríguez	Araya	Sylvia	C. T. P. de Liberia	78.16	Admitido	Contabilidad y Finanzas
+2011	Barrantes	Montoya	Jorge	Unidad Pedagógica de San Diego	77.98	Admitido	Contabilidad y Finanzas
+2011	Padilla	Zúñiga	Erick Alberto	Unidad Pedagógica de San Diego	77.33	Admitido	Contabilidad y Finanzas
+2011	Jaubert	Reyes	Yamileth Francinie	Unidad Pedagógica de San Diego	76.51	Admitido	Contabilidad y Finanzas
+2011	Rodríguez	Chavarría	Martín Antonio	Unidad Pedagógica de San Diego	76.10	Admitido	Contabilidad y Finanzas
+2011	Talavera	Chaves	Heidy Noeli	Unidad Pedagógica de San Diego	75.75	Admitido	Contabilidad y Finanzas
+2011	Chamorro	Lizano	Melany	Unidad Pedagógica de San Diego	74.80	Admitido	Contabilidad y Finanzas
+2011	Castro	Cordero	Deymer	Unidad Pedagógica de San Diego	74.79	Admitido	Contabilidad y Finanzas
+2011	Arley	Montero	Sharon Michelle	Unidad Pedagógica de San Diego	74.77	Admitido	Contabilidad y Finanzas
+2011	Quesada 	Vargas	Vladimir	Unidad Pedagógica de San Diego	74.29	Admitido	Contabilidad y Finanzas
+2011	Barquero	Meneses	Jorge	Unidad Pedagógica de San Diego	68.81	Admitido	Contabilidad y Finanzas
+2011	Camacho	Rodríguez	Silvia Elena	Colegio de San Luis Gonzaga	68.81	Admitido	Contabilidad y Auditoría
+2011	Salazar	Díaz	Sara Nohelia	Unidad Pedagógica de San Diego	68.81	Admitido	Contabilidad y Auditoría
+2011	Rodríguez	Astúa	María Gabriela	Liceo José Joaquín Vargas Calvo	68.81	Admitido	Contabilidad y Auditoría
+2011	Téllez	Solòrzano	Isabel	Liceo de Curridabat	68.81	Admitido	Contabilidad y Auditoría
+2011	Gómez	Mora	Yendry	Liceo José Joaquín Vargas Calvo	68.81	Admitido	Contabilidad y Auditoría
+2011	Segura	Barquero	Daniel	Unidad Pedagógica de San Diego	68.81	Admitido	Contabilidad y Auditoría
+2011	Soto	Guillén	Gustavo	Unidad Pedagógica de San Diego	68.81	Admitido	Contabilidad y Auditoría
+2011	Barrantes	Montoya	Rosa	Unidad Pedagógica de San Diego	68.81	Admitido	Contabilidad y Auditoría
+2011	Vargas	Valverde	Danny	Unidad Pedagógica de San Diego	87.78	Admitido	Mecánica General
+2011	Calvo	Rojas	Dayana Fabiola	Colegio Alejandro Quesada Ramírez	83.45	Admitido	Mecánica General
+2011	Acosta	Barquero	David Felipe	Colegio Alejandro Quesada Ramírez	81.85	Admitido	Mecánica General
+2011	Fernández	Vargas	Nick	Colegio Alejandro Quesada Ramírez	80.96	Admitido	Mecánica General
+2011	Azofeifa 	Quirós	Michael	Unidad Pedagógica de San Diego	77.96	Admitido	Mecánica General
+2011	Acuña	Sánchez	Byron	Unidad Pedagógica de San Diego	74.33	Admitido	Mecánica General
+2011	Solórzano	Reyes	Guillermo José	Liceo José Joaquín Vargas Calvo	70.88	No Admitido	Mecánica General
+2011	Granados	Vargas	Marco Vinicio	Liceo José Joaquín Vargas Calvo	94.69	Admitido	Informática en Redes de Computadoras
+2011	García	Vindas	Cristopher	Unidad Pedagógica de San Diego	91.98	Admitido	Informática en Redes de Computadoras
+2011	Morera	Hernández	Steven	Conbi College	89.27	Admitido	Informática en Redes de Computadoras
+2011	Rivas	Portuguéz	Daniela	Colegio Seráfico San Francisco	89.00	Admitido	Informática en Redes de Computadoras
+2011	Espinoza	Quirós	Geovanny	Colegio Alejandro Quesada Ramírez	87.49	Admitido	Informática en Redes de Computadoras
+2011	Hernández	Vindas	María Fernanada	Unidad Pedagógica de San Diego	85.68	Admitido	Informática en Redes de Computadoras
+2011	Bermúdez	Arroyo	Dennis	Unidad Pedagógica de San Diego	81.59	Admitido	Informática en Redes de Computadoras
+2011	Fallas	Arias	Andrea	Colegio Alejandro Quesada Ramírez	81.38	No Admitido	Informática en Redes de Computadoras
+2011	Arias	Cordero	Percy Josué	Liceo Anastasio Alfaro	80.61	No Admitido	Informática en Redes de Computadoras
+2011	Arias	Vega	Gerald	Unidad Pedagógica de San Diego	80.08	No Admitido	Informática en Redes de Computadoras
+2011	Castellón	Cruz	Kevin	Unidad Pedagógica de San Diego	78.44	No Admitido	Informática en Redes de Computadoras
+2011	Valverde	Leandro	Steven Gerardo	Liceo Nuevo de San Diego	76.47	No Admitido	Informática en Redes de Computadoras
+2011	Cerdas	Salas	Brian José	Liceo José Joaquín Vargas Calvo	74.78	No Admitido	Informática en Redes de Computadoras
+2011	Sánchez	Morales	Alejandro	Unidad Pedagógica de San Diego	68.86	No Admitido	Informática en Redes de Computadoras
+2011	Gutiérrez	Siles	Manuel	Liceo Rodrigo Facio Brenes	67.49	No Admitido	Informática en Redes de Computadoras
+2011	Sánchez	Morales	Andrés	Unidad Pedagógica de San Diego	66.45	No Admitido	Informática en Redes de Computadoras
+2011	Vargas	Martínez	Francesca	Liceo José Joaquín Vargas Calvo	95.19	Admitido	Informática en Soporte Técnico
+2011	Méndez	Fernández	Luis Diego	Colegio Seminario	89.05	Admitido	Informática en Soporte Técnico
+2011	Segura	Mazariegos	Katherine	Unidad Pedagógica de San Diego	87.74	Admitido	Informática en Soporte Técnico
+2011	Massey	Sánchez	John Raymond	C. T. P. de Granadilla	87.44	Admitido	Informática en Soporte Técnico
+2011	Mata	Salas	Valeria	Liceo San Antonio	87.30	Admitido	Informática en Soporte Técnico
+2011	Dìaz	Gamboa	Aarón	Liceo Anastasio Alfaro	85.28	Admitido	Informática en Soporte Técnico
+2011	Chavarría 	Calvo	Fabián	Unidad Pedagógica de San Diego	76.46	Admitido	Informática en Soporte Técnico
+2011	Bonilla	Jiménez	Bryan	Unidad Pedagógica de San Diego	75.38	Admitido	Informática en Soporte Técnico
+2011	Morera	Hernández	Kevin	Conbi College	84.74	Admitido	Informática en Soporte Técnico
+2011	Rodríguez	Briceño	Hazel	Liceo Nuevo de San Diego	85.40	Admitido	Informática en Soporte Técnico
+2011	Chaves	Marín	Laura	Colegio Alejandro Quesada Ramírez	92.94	Admitido	Secretariado Ejecutivo
+2011	Coto	Sánchez	Stephanie	Colegio Alejandro Quesada Ramírez	90.74	Admitido	Secretariado Ejecutivo
+2011	Alfaro	Solís	Hazel Vanessa	Liceo José Joaquín Vargas Calvo	90.17	Admitido	Secretariado Ejecutivo
+2011	Calderón	García	Karina	Unidad Pedagógica de San Diego	89.31	Admitido	Secretariado Ejecutivo
+2011	Arley 	Guzmán	Kimberly	Liceo de Curridabat	88.61	Admitido	Secretariado Ejecutivo
+2011	Picado	Torres	Yerlin	Colegio Alejandro Quesada Ramírez	87.60	Admitido	Secretariado Ejecutivo
+2011	Arana	Zúñiga	Beatriz	Colegio Alejandro Quesada Ramírez	85.81	Admitido	Secretariado Ejecutivo
+2011	Bonilla	Gamboa	Gabriela	Colegio Alejandro Quesada Ramírez	85.33	Admitido	Secretariado Ejecutivo
+2011	Retana	Valverde	Yerlin Fiorella	Colegio Alejandro Quesada Ramírez	85.18	Admitido	Secretariado Ejecutivo
+2011	Quintana	Sánchez	Carolina	Colegio Seráfico San Francisco	84.91	Admitido	Secretariado Ejecutivo
+2011	Delgado	Fernández	Fanny	Liceo Mata de Plátano 	84.64	Admitido	Secretariado Ejecutivo
+2011	Soto	Maicabare	Jacqueline	Unidad Pedagógica de San Diego	84.63	Admitido	Secretariado Ejecutivo
+2011	Velásquez	Calderón	María José	Liceo José Joaquín Vargas Calvo	83.67	Admitido	Secretariado Ejecutivo
+2011	Castro	Calvo	Joshua	IPEC	83.00	Admitido	Secretariado Ejecutivo
+2011	Vargas	Miranda	Fabiola	Liceo de Curridabat	82.84	No Admitido	Secretariado Ejecutivo
+2011	Alzate	Sánchez	Sara	Liceo Mata de Plátano	82.82	No Admitido	Secretariado Ejecutivo
+2011	Hércules	Jiménez	Arlín Melissa	Liceo Nuevo de San Diego	82.53	No Admitido	Secretariado Ejecutivo
+2011	Cerdas	Salazar	Gabriel Alejandro	Liceo Nuevo de San Diego	82.28	No Admitido	Secretariado Ejecutivo
+2011	Rojas	Calvo	Jordan Josué	Unidad Pedagógica de San Diego	82.18	No Admitido	Secretariado Ejecutivo
+2011	Morales	Mairena	Kelly Vanessa	Liceo José Joaquín Vargas Calvo	81.82	No Admitido	Secretariado Ejecutivo
+2011	Sancho	Hernández	Josser	Unidad Pedagógica de San Diego	81.78	No Admitido	Secretariado Ejecutivo
+2011	Rojas	Agüero	Annette	Unidad Pedagógica de San Diego	79.65	No Admitido	Secretariado Ejecutivo
+2011	Solís	Obando	Raisa	Liceo Nuevo de San Diego	76.88	No Admitido	Secretariado Ejecutivo
+2011	Maroto	Sanabria	Andrea	Unidad Pedagógica de San Diego	76.64	No Admitido	Secretariado Ejecutivo
+2011	Ramírez	Agüero	Tatiana	Unidad Pedagógica de San Diego	76.41	No Admitido	Secretariado Ejecutivo
+2011	González	Urquía	Franklin	Unidad Pedagógica de San Diego	76.38	No Admitido	Secretariado Ejecutivo
+2011	Elizondo	Vargas	Katherine	Unidad Pedagógica de San Diego	76.38	No Admitido	Secretariado Ejecutivo
+2011	Montenegro	Cedeño	Stephanie	Unidad Pedagógica de San Diego	75.76	No Admitido	Secretariado Ejecutivo
+2011	Brenes	Fernández	Daniel Jesùs	Liceo San Antonio	86.76	Admitido	Ejecutivo para Centros de Servicios
+2011	Conejo	Amador	Joseline Gabriela	Unidad Pedagògica de San Diego	86.51	Admitido	Ejecutivo para Centros de Servicios
+2011	Vargas	Fonseca	Natalia	Colegio Victoria	84.77	Admitido	Ejecutivo para Centros de Servicios
+2011	Picado	Aguilar	Karen Tatiana	Unidad Pedagògica de San Diego	82.25	Admitido	Ejecutivo para Centros de Servicios
+2011	Nùnez	Rodrìguez	Jessica	Unidad Pedagògica de San Diego	81.43	Admitido	Ejecutivo para Centros de Servicios
+2011	Nùñez	Montenegro	Arleth	Colegio Alejandro Quesada	76.74	Admitido	Ejecutivo para Centros de Servicios
+2011	Mora	Richmond	Robert	Colegio Alejandro Quesada	76.42	Admitido	Ejecutivo para Centros de Servicios
+2011	Rodrìguez	Zùñiga	Erick Adriàn	Colegio Bendito Jesùs	75.96	Admitido	Ejecutivo para Centros de Servicios
+2011	Castro	Salazar	Cristian	Unidad Pedagògica de San Diego	72.58	Admitido	Ejecutivo para Centros de Servicios
+2011	Guerrero	Madrigal	Luis	Unidad Pedagògica de San Diego	70.57	Admitido	Ejecutivo para Centros de Servicios
+2011	Solano	Ramìrez	Daniela	Colegio San Antonio Padua	67.19	No Admitido	Ejecutivo para Centros de Servicios
+2011	Garro	Nùñez	Allison	Unidad Pedagògica de San Diego	64.52	No Admitido	Ejecutivo para Centros de Servicios
+2011	Umaña	Jiménez	Yansy	Unidad Pedagògica de San Diego	29.34	No Admitido	Ejecutivo para Centros de Servicios
+2011	Rayo	Salgado	Marta Lizzeth	C. T. P. de Granadilla	28.25	No Admitido	Ejecutivo para Centros de Servicios
+2011	Trejos	Castro	Bryan	Unidad Pedagògica de San Diego	26.25	No Admitido	Ejecutivo para Centros de Servicios
+2011	Vega	Mora	Luis Gabriel	C. T. P. de Granadilla	22.55	No Admitido	Ejecutivo para Centros de Servicios
+2011	Herrera	Tèllez	Rolando Josè	C. T. P. de Granadilla	20.93	No Admitido	Ejecutivo para Centros de Servicios
+2011	Calderòn	Rivera	Jennifer	IPEC	19.95	No Admitido	Ejecutivo para Centros de Servicios
+2011	Ramìrez	Agüero	Tatiana	Unidad Pedagògica de San Diego	19.20	No Admitido	Ejecutivo para Centros de Servicios
+2011	Fernández	Vargas	Lucìa	Unidad Pedagògica de San Diego	19.06	No Admitido	Ejecutivo para Centros de Servicios
+2011	Valverde	Solìs	Karina Alejandra	Unidad Pedagògica de San Diego	18.95	No Admitido	Ejecutivo para Centros de Servicios
+2011	Artavia	Ardòn	Marìa Josè	C. T. P. de Granadilla	16.68	No Admitido	Ejecutivo para Centros de Servicios
+2011	Molina	Fallas	Laura	C. T. P. de Granadilla	14.50	No Admitido	Ejecutivo para Centros de Servicios
+2011	Fallas	Arias	Andrea	Colegio Alejandro Quesada	12.30	No Admitido	Ejecutivo para Centros de Servicios
+2011	Mora	Espinoza	Scarleth	C. T. P. de Granadilla	10.50	No Admitido	Ejecutivo para Centros de Servicios
+2011	Hurtado	Bravo	Katherine	Unidad Pedagògica de San Diego	9.85	No Admitido	Ejecutivo para Centros de Servicios
+2011	Rojas	Calvo	Jordan	Unidad Pedagògica de San Diego	9.70	No Admitido	Ejecutivo para Centros de Servicios
+2011	Monge	Delgado	Andrés David	Liceo Nuevo de San Diego	8.00	No Admitido	Ejecutivo para Centros de Servicios
+2011	Alvarado	Calvo	Carlos Paulino	Unidad Pedagògica de San Diego	7.15	No Admitido	Ejecutivo para Centros de Servicios
+2011	Chacón	Alvarado	Nicole	C. T. P. de Granadilla	0.00	No Admitido	Ejecutivo para Centros de Servicios
+2011	Coto	Sánchez	Stephanie	Colegio Alejandro Quesada	0.00	No Admitido	Ejecutivo para Centros de Servicios
+2011	Rojas	Agüero	Annette	Unidad Pedagògica de San Diego	0.00	No Admitido	Ejecutivo para Centros de Servicios
+2012	Céspedes	Garbanzo	Erick Alberto	Liceo de Curridabat	79.59	Admitido	Ejecutivo para Centros de Servicios
+2012	Zúñiga	Mora	Amanda	Colegio Alejandro Quesada Ramírez	79.53	Admitido	Ejecutivo para Centros de Servicios
+2012	Trejos	Castro	Bryan	Unidad Pedagógica San Diego	79.33	Admitido	Ejecutivo para Centros de Servicios
+2012	Porras	Sandino	Esteban	Liceo Dr. José María Castro Madriz	77.15	Admitido	Ejecutivo para Centros de Servicios
+2012	Díaz	Lobo	Daniela	Colegio de Cedros	69.98	No Admitido	Ejecutivo para Centros de Servicios
+2012	Wilson	Meza	Adriana Tatiana	Liceo Anastasio Alfaro	69.62	No Admitido	Ejecutivo para Centros de Servicios
+2012	Soto	Guido	Fiorella	Unidad Pedagógica San Diego	67.20	No Admitido	Ejecutivo para Centros de Servicios
+2012	Quintero	Rodríguez	Zeanny Esmeritha	Unidad Pedagógica San Diego	66.84	No Admitido	Ejecutivo para Centros de Servicios
+2012	Mora	Richmond	Jéssica Jane	Colegio Alejandro Quesada Ramírez	66.19	No Admitido	Ejecutivo para Centros de Servicios
+2012	Elizondo	Richmond	Emily Vanessa	Liceo de San Diego	64.95	No Admitido	Ejecutivo para Centros de Servicios
+2012	Fallas	Traña	Alexa	Colegio Alejandro Quesada Ramírez	64.63	No Admitido	Ejecutivo para Centros de Servicios
+2012	Rodríguez	Berrocal	Ronald	Unidad Pedagógica San Diego	64.37	No Admitido	Ejecutivo para Centros de Servicios
+2012	Cascante	Mora	Yennerey	Liceo José Joaquín Vargas Calvo	64.21	No Admitido	Ejecutivo para Centros de Servicios
+2012	Calderón	Herrera	Brenda	Unidad Pedagógica San Diego	62.10	No Admitido	Ejecutivo para Centros de Servicios
+2012	Obando	Hidalgo	Maylin	Liceo de Curridabat	56.57	No Admitido	Ejecutivo para Centros de Servicios
+2012	Chavarría	Balmaceda	Paola	Colegio Alejandro Quesada Ramírez	90.76	Admitido	Contabilidad
+2012	Mora	Díaz	Allison	Colegio Alejandro Quesada Ramírez	88.41	Admitido	Contabilidad
+2012	Soto	Guillén	Fernando	Unidad Pedagógica San Diego	88.30	Admitido	Contabilidad
+2012	Solís	Marín	Alejandro	Liceo José Joaquín Vargas Calvo	87.30	Admitido	Contabilidad
+2012	Calvo	Rodríguez	Christopher	Colegio Victoria	86.13	Admitido	Contabilidad
+2012	Esquivel	Masís	Kimberly	Liceo San Nicolás de Tolentino	84.04	Admitido	Contabilidad
+2012	Vives	Romero	María José	Liceo Occidental de Cartago	84.02	Admitido	Contabilidad
+2012	Barrantes	Rodríguez	Katherine	Unidad Pedagógica San Diego	83.81	Admitido	Contabilidad
+2012	Sánchez	Aguilar	Laura	Liceo San Diego	83.67	Admitido	Contabilidad
+2012	Muñoz	González	Christian	Colegio Alejandro Quesada Ramírez	83.66	Admitido	Contabilidad
+2012	Umaña	Madrigal	Walter	Colegio Nocturno La Unión	83.03	Admitido	Contabilidad
+2012	Matarrita	Trejos	Daniela	Unidad Pedagógica San Diego	81.62	Admitido	Contabilidad
+2012	Poveda	Acuña	Joselyn	Colegio Alejandro Quesada Ramírez	81.60	Admitido	Contabilidad
+2012	Azofeifa	Brenes	Kedin Lenit	Colegio Alejandro Quesada Ramírez	80.56	Admitido	Contabilidad
+2012	González	Soto	Génesis	Liceo San Nicolás de Tolentino	80.16	Admitido	Contabilidad
+2012	Morraz	Bustos	Erick	Liceo José Joaquín Vargas Calvo	79.90	Admitido	Contabilidad
+2012	Vásquez	Ballestero	Ramsés	Unidad Pedagógica San Diego	78.27	Admitido	Contabilidad
+2012	Flores	Jiménez	Leidy Yubelka	Liceo Dr. José María Castro Madriz	78.12	Admitido	Contabilidad
+2012	Castro	Wilson	Noelia	Colegio Alejandro Quesada Ramírez	77.88	Admitido	Contabilidad
+2012	Brenes	García	María Fernanda	Colegio Alejandro Quesada Ramírez	77.85	Admitido	Contabilidad
+2012	Rojas	Calvo	Jonathan	Unidad Pedagógica San Diego	77.85	Admitido	Contabilidad
+2012	Rivera	Sanabria	Josette	Liceo de San Diego	77.42	Admitido	Contabilidad
+2012	Sing	Soto	Stephanie	Unidad Pedagógica San Diego	76.82	Admitido	Contabilidad
+2012	Carballo	Paniagua	Jeremy Gustavo	Unidad Pedagógica San Diego	76.75	Admitido	Contabilidad
+2012	Hidalgo	Sánchez	Maribel	Unidad Pedagógica San Diego	76.43	Admitido	Contabilidad
+2012	Sánchez	Solís	Steven	Colegio Nocturno La Unión	75.44	Admitido	Contabilidad
+2012	Meza	Barquero	Kenneth	Unidad Pedagógica San Diego	75.05	Admitido	Contabilidad
+2012	Gutiérrez	Chavarría	Marianella	Unidad Pedagógica San Diego	74.85	Admitido	Contabilidad
+2012	Cordero	Badilla	Kimberly	Liceo Anastasio Alfaro	74.48	Admitido	Contabilidad
+2012	Arley	Montero	Sharon Michelle	Unidad Pedagógica San Diego	74.20	Admitido	Contabilidad
+2012	Solís	Vargas	Jasni María	Colegio Alejandro Quesada Ramírez	72.46	Admitido	Contabilidad
+2012	Barquero	Meneses	Jorge Isacc	Unidad Pedagógica San Diego	71.25	No Admitido	Contabilidad
+2012	Bonilla	Fowler	Melany	Unidad Pedagógica San Diego	62.63	No Admitido	Contabilidad
+2012	Bonilla 	Fowler	Mitzy	Unidad Pedagógica San Diego	61.41	No Admitido	Contabilidad
+2012	Alvarado	Ramírez	Laura	Unidad Pedagógica San Diego	94.42	Admitido	Informática en Redes de Computadoras
+2012	Agüero	Castro	Marlon	Liceo de San Diego	89.68	Admitido	Informática en Redes de Computadoras
+2012	Mena	Fernández	Heypril Briguitte	Liceo Teodoro Picado	86.96	Admitido	Informática en Redes de Computadoras
+2012	Vega	Brenes	Andrés	Liceo Occidental de Cartago	86.94	Admitido	Informática en Redes de Computadoras
+2012	Artavia	Abarca	Nery Mariana	Liceo de San Diego	86.53	No Admitido	Informática en Redes de Computadoras
+2012	Juárez	Fuentes	Luis Diego	Liceo Occidental de Cartago	86.27	No Admitido	Informática en Redes de Computadoras
+2012	Picado	Durán	José Pablo	Liceo de Alajuelita	86.19	No Admitido	Informática en Redes de Computadoras
+2012	Rowe	Salazar	Gary	Colegio Seráfico San Francisco	85.86	No Admitido	Informática en Redes de Computadoras
+2012	Rubio	Morales	Jeancarlo	Unidad Pedagógica San Diego	85.77	No Admitido	Informática en Redes de Computadoras
+2012	Mora	Ureña	Juan Manuel	Colegio de Cedros	84.46	No Admitido	Informática en Redes de Computadoras
+2012	Mena	Villalobos	Fabián	Unidad Pedagógica San Diego	84.11	No Admitido	Informática en Redes de Computadoras
+2012	Sulliotti	Linner	Massimo	Coledio de Cedros	83.88	No Admitido	Informática en Redes de Computadoras
+2012	Herrera	Aróstegui	Roy Mario	Liceo de Curridabat	83.68	No Admitido	Informática en Redes de Computadoras
+2012	Solano	Madrigal	Andrey	Liceo José Joaquín Vargas Calvo	82.85	No Admitido	Informática en Redes de Computadoras
+2012	Monge	Abarca	Carlos Roberto	Liceo Rodrigo Facio	82.70	No Admitido	Informática en Redes de Computadoras
+2012	Alvarado	Calderón	Yéssica	Liceo de San Diego	82.66	No Admitido	Informática en Redes de Computadoras
+2012	Hernández	Hernández	Mario	Liceo José Joaquín Vargas Calvo	82.52	No Admitido	Informática en Redes de Computadoras
+2012	Solano	Monge	Rebeca	Unidad Pedagógica San Diego	82.28	No Admitido	Informática en Redes de Computadoras
+2012	Quirós	Valverde	Kevin Alberto	Colegio Alejandro Quesada Ramírez	81.94	No Admitido	Informática en Redes de Computadoras
+2012	Brenes	Venegas	Alexander	Liceo de Curridabat	81.00	No Admitido	Informática en Redes de Computadoras
+2012	Martínez	Marchena	Katherine 	Liceo de San Diego	80.75	No Admitido	Informática en Redes de Computadoras
+2012	Rojas	Aguilar	Sharon Ximena	Unidad Pedagógica San Diego	80.16	No Admitido	Informática en Redes de Computadoras
+2012	Salas	Aguilar	José Andrés	Liceo de San Diego	79.15	No Admitido	Informática en Redes de Computadoras
+2012	Ramos	Hernández	Jean Carlos	Unidad Pedagógica San Diego	78.81	No Admitido	Informática en Redes de Computadoras
+2012	Fernández	López	Joselyne Astrid	Unidad Pedagógica San Diego	78.74	No Admitido	Informática en Redes de Computadoras
+2012	Fallas	Jirón	Mario Andrés	Unidad Pedagógica San Diego	78.71	No Admitido	Informática en Redes de Computadoras
+2012	Leiva	Solera	Andrey	Colegio Alejandro Quesada Ramírez	78.32	No Admitido	Informática en Redes de Computadoras
+2012	Alpízar	Montoya	Steven	Unidad Pedagógica San Diego	77.83	No Admitido	Informática en Redes de Computadoras
+2012	Flores	Gutiérrez	Josué	Unidad Pedagógica San Diego	76.83	No Admitido	Informática en Redes de Computadoras
+2012	Monge	Umaña	Luis Diego	Unidad Pedagógica San Diego	76.38	No Admitido	Informática en Redes de Computadoras
+2012	Alcázar	Segura	Santiago	Unidad Pedagógica San Diego	76.22	No Admitido	Informática en Redes de Computadoras
+2012	Segura	Vega	Diana	Liceo de San Diego	75.19	No Admitido	Informática en Redes de Computadoras
+2012	Cordero	Valderramos	Jheison	Liceo de San Diego	74.97	No Admitido	Informática en Redes de Computadoras
+2012	Cervantes	Hernández	Joksan	Liceo José Joaquín Vargas Calvo	74.73	No Admitido	Informática en Redes de Computadoras
+2012	Rojas	Salazar	Daniel	Unidad Pedagógica San Diego	74.17	No Admitido	Informática en Redes de Computadoras
+2012	Mora	Navarro	Nathalia	Colegio Alejandro Quesada Ramírez	73.89	No Admitido	Informática en Redes de Computadoras
+2012	Angulo	Hurtado	Zilgeham	Liceo de San Diego	73.71	No Admitido	Informática en Redes de Computadoras
+2012	Torres	Díaz	Steven	Liceo de San Diego	68.43	No Admitido	Informática en Redes de Computadoras
+2012	Delgado	Hutchisón	Andrey	Unidad Pedagógica San Diego	68.33	No Admitido	Informática en Redes de Computadoras
+2012	Cuevas	Restrepo	Juan José	Liceo Dr. José María Castro Madriz	88.40	Admitido	Informática en Soporte Técnico
+2012	Jiménez	Mora	Marilyn	Colegio Alejandro Quesada Ramírez	88.00	Admitido	Informática en Soporte Técnico
+2012	Elizondo	Solano	José Alfonso	Liceo de Curridabat	85.66	Admitido	Informática en Soporte Técnico
+2012	Rojas	Loaiza	Ronny	Unidad Pedagógica San Diego	83.51	A Significativa	Informática en Soporte Técnico
+2012	Leiva	Calderón	Daniel	Liceo Nuevo San Diego	82.54	Admitido	Informática en Soporte Técnico
+2012	Rodríguez	Morán	Steven	Colegio Alejandro Quesada Ramírez	82.34	Admitido	Informática en Soporte Técnico
+2012	Castro	Barahona	Diego Alonso	Colegio Alejandro Quesada Ramírez	81.76	Admitido	Informática en Soporte Técnico
+2012	Mena	Agüero	Michael Josué	Unidad Pedagógica San Diego	79.76	No Admitido	Informática en Soporte Técnico
+2012	Vásquez	Rivera	Josué	Liceo Rodrigo Facio Brenes	79.19	No Admitido	Informática en Soporte Técnico
+2012	Soto	Abarca	Fabián	Colegio Alejandro Quesada Ramírez	78.40	No Admitido	Informática en Soporte Técnico
+2012	Agüero	Carpio	Michael 	Liceo Nuevo San Diego	77.43	No Admitido	Informática en Soporte Técnico
+2012	Cisneros	Barrientos	Alonso	Unidad Pedagógica San Diego	77.16	No Admitido	Informática en Soporte Técnico
+2012	Montoya	Richmond	Jorge Luis	Unidad Pedagógica San Diego	76.21	No Admitido	Informática en Soporte Técnico
+2012	Aguilar 	Ramírez	Maydali Kassandra	Colegio Alejandro Quesada Ramírez	75.68	No Admitido	Informática en Soporte Técnico
+2012	Villalobos	López	Gerald	Unidad Pedagógica San Diego	75.41	No Admitido	Informática en Soporte Técnico
+2012	Mendoza	Salmerón	Rubén	Unidad Pedagógica San Diego	74.25	No Admitido	Informática en Soporte Técnico
+2012	Arguedas	Varela	José Manuel	Colegio Seráfico San Francisco	73.88	No Admitido	Informática en Soporte Técnico
+2012	Venegas	Chaves	Katherine	Liceo de San Diego	93.58	Admitido	Secretariado Ejecutivo
+2012	Peinado	Reyes	Karen Dayana 	Unidad Pedagógica San Diego	87.88	Admitido	Secretariado Ejecutivo
+2012	Trejos	Bonilla	Laura	Unidad Pedagógica San Diego	84.39	Admitido	Secretariado Ejecutivo
+2012	Zúñiga	Mesén	Keisy	Liceo de San Diego	84.25	Admitido	Secretariado Ejecutivo
+2012	Cordero	Ureña	Krissia Daniela	Liceo de Moravia	84.18	Admitido	Secretariado Ejecutivo
+2012	Ulloa	Alvarenga	Mónica Fernanda	Unidad Pedagógica San Diego	81.74	Admitido	Secretariado Ejecutivo
+2012	Mata	Fernández	Yareny María	Colegio de San Luis Gonzaga	81.54	Admitido	Secretariado Ejecutivo
+2012	Matarrita	Vindas	Karen	Colegio Alejandro Quesada Ramírez	80.63	Admitido	Secretariado Ejecutivo
+2012	Ávalos 	Gómez	Valeria	Colegio Alejandro Quesada Ramírez	79.92	Admitido	Secretariado Ejecutivo
+2012	Sánchez	Sánchez	Cinthya	Colegio Alejandro Quesada Ramírez	79.84	Admitido	Secretariado Ejecutivo
+2012	Ortega	Guadamuz	Stephanie	Colegio Alejandro Quesada Ramírez	77.79	Admitido	Secretariado Ejecutivo
+2012	Navas	Sánchez	Selena Elizabeth	Unidad Pedagógica San Diego	77.16	Admitido	Secretariado Ejecutivo
+2012	Boza	Barahona	Joselyn María	Unidad Pedagógica San Diego	76.73	Admitido	Secretariado Ejecutivo
+2012	Boza	Vargas	Natalia	Unidad Pedagógica San Diego	76.45	Admitido	Secretariado Ejecutivo
+2012	Sánchez	Mora	María Fernanda	Colegio Alejandro Quesada Ramírez	75.44	Admitido	Secretariado Ejecutivo
+2012	Rodríguez	Montenegro	Luis Eduardo	Unidad Pedagógica San Diego	74.82	Admitido	Secretariado Ejecutivo
+2012	Fuentes	Abarca	Stephanie	Unidad Pedagógica San Diego	74.72	Admitido	Secretariado Ejecutivo
+2012	Bermúdez	Solís	Stephanie	Colegio Alejandro Quesada Ramírez	74.27	Admitido	Secretariado Ejecutivo
+2012	Esquivel	Masís	Yoselyn	Liceo San Nicolás de Tolentino	71.05	Admitido	Secretariado Ejecutivo
+2013	Molina	Andrade	Jeremy Arturo	Colegio de San Luis Gonzaga	86.57	Admitido	Accounting
+2013	Salas	Mora	Victoria	Colegio Alejandro Quesada Ramírez	79.05	No Admitido	Accounting
+2013	Corrales	Ureña	María Isabel	C. T. P. de Granadilla	64.49	No Admitido	Accounting
+2013	Richmond	Boza	Viviana	Liceo de Curridabat	57.18	No Admitido	Accounting
+2013	Tercero	Burgos	Natalia	Colegio Alejandro Quesada Ramírez	0.00	No Admitido	Accounting
+2013	Garita	García	Katherine Isabel	Liceo de San Diego	94.42	Admitido	Contabilidad
+2013	Quesada	Sosa	Randall Enrique	Liceo de Curridabat	92.26	Admitido	Contabilidad
+2013	Andrade	Carvajal	Bryan Josué	Liceo José Joaquín Vargas Calvo	84.86	Admitido	Contabilidad
+2013	García	Zeledón	Kimberly	Colegio Alejandro Quesada Ramírez	84.74	Admitido	Contabilidad
+2013	Barrantes	Araya	Anaely	Colegio Alejandro Quesada Ramírez	83.29	Admitido	Contabilidad
+2013	Delgado	Quintana	Wendy	Liceo de San Diego	81.92	Admitido	Contabilidad
+2013	Gutiérrez	Zúñiga	Natalie	Liceo Anastasio Alfaro	81.46	Admitido	Contabilidad
+2013	Fernández	Cordero	Brandon Josué	Colegio Alejandro Quesada Ramírez	80.40	Admitido	Contabilidad
+2013	Mora	Durán	Róger Andrés	Liceo de Curridabat	80.12	Admitido	Contabilidad
+2013	Barrios	Bermúdez	Marjorie Priscilla	Colegio Alejandro Quesada Ramírez	74.92	Admitido	Contabilidad
+2013	Espinoza	Miranda	José Iván	Unidad Pedagógica de San Diego	72.05	Admitido	Contabilidad
+2013	Díaz	Rojas	Alyson	Colegio Alejandro Quesada Ramírez	69.77	No Admitido	Contabilidad
+2013	Solano	Venegas	Kevin José	Colegio Alejandro Quesada Ramírez	65.89	No Admitido	Contabilidad
+2013	Sancho	Valderramos	Kevin	Colegio Alejandro Quesada Ramírez	92.36	Admitido	Contabilidad y Finanzas
+2013	Jiménez	Madrigal	Yoselin	Liceo de San Diego	90.66	Admitido	Contabilidad y Finanzas
+2013	González	Arce	Jostin	Unidad Pedagógica de San Diego	90.59	Admitido	Contabilidad y Finanzas
+2013	Quirós	Andrade	Jonathán Josué	Liceo de San Diego	90.12	Admitido	Contabilidad y Finanzas
+2013	Centeno	Quirós	Yacudel Ronaldo	Liceo de San Diego	89.58	Admitido	Contabilidad y Finanzas
+2013	Madrigal	Astúa	Steven Emmanuel	C. T. P. de Granadilla	89.12	Admitido	Contabilidad y Finanzas
+2013	Núñez	Araya	Manfred Daniel	Liceo de San Diego	88.11	Admitido	Contabilidad y Finanzas
+2013	Bula	Valdelomar	Alina	C. T. P. de Granadilla	87.67	Admitido	Contabilidad y Finanzas
+2013	Martínez	Vargas	Joseph	Unidad Pedagógica de San Diego	84.43	Admitido	Contabilidad y Finanzas
+2013	Arias	Calderón	Jaffet Steven	Colegio Alejandro Quesada Ramírez	84.01	Admitido	Contabilidad y Finanzas
+2013	Monge	Delgado	Wendy	Liceo de San Diego	83.42	Admitido	Contabilidad y Finanzas
+2013	Redondo	Fernández	Daniel	Liceo de San Diego	83.40	Admitido	Contabilidad y Finanzas
+2013	Villafuerte	Rivera	Gerald Moisés	Liceo de San Diego	83.38	Admitido	Contabilidad y Finanzas
+2013	Gómez	Aguilar	Jimena	Colegio Alejandro Quesada Ramírez	81.66	Admitido	Contabilidad y Finanzas
+2013	Cerrato	Mora	Jonathan	Liceo de Curridabat	81.15	Admitido	Contabilidad y Finanzas
+2013	Tercero	Burgos	Natalia	Colegio Alejandro Quesada Ramírez	80.79	Admitido	Contabilidad y Finanzas
+2013	Díaz	Castillo	Jurgen Jesús	Liceo Occidental de Cartago	80.60	Admitido	Contabilidad y Finanzas
+2013	Calvo	Retana	Stephanie Daniela	Liceo de San Diego	79.94	No Admitido	Contabilidad y Finanzas
+2013	Artavia	Bonilla	Kimberly Dayana	Colegio Alejandro Quesada Ramírez	79.72	No Admitido	Contabilidad y Finanzas
+2013	Venegas	Miranda	José Andrés	Unidad Pedagógica de San Diego	79.12	No Admitido	Contabilidad y Finanzas
+2013	Vega	Varela	Selena de los Angeles	C. T. P. de Granadilla	78.59	No Admitido	Contabilidad y Finanzas
+2013	Díaz	Hernández	Taylor	Colegio de San Luis Gonzaga	77.99	No Admitido	Contabilidad y Finanzas
+2013	Aguilar	Monestel	Nicole	Unidad Pedagógica de San Diego	75.42	No Admitido	Contabilidad y Finanzas
+2013	Fallas	Garro	Joseph Rafael	Colegio Alejandro Quesada Ramírez	74.94	No Admitido	Contabilidad y Finanzas
+2013	Sanabria	Madrigal	Mónica Nathalia	Colegio Alejandro Quesada Ramírez	73.33	No Admitido	Contabilidad y Finanzas
+2013	Blanco	Jáenz	Diana Auxiliadora	Unidad Pedagógica de San Diego	72.28	No Admitido	Contabilidad y Finanzas
+2013	Romero 	Fonseca	Juan José	Unidad Pedagógica de San Diego	72.05	No Admitido	Contabilidad y Finanzas
+2013	Solís	González	Katherine Priscilla	Unidad Pedagógica de San Diego	71.00	No Admitido	Contabilidad y Finanzas
+2013	Jáenz	             -     	Josué Alexander	Unidad Pedagógica de San Diego	70.61	No Admitido	Contabilidad y Finanzas
+2013	Guadamuz	Paizano	Rauqel Vanessa	Unidad Pedagógica de San Diego	70.54	No Admitido	Contabilidad y Finanzas
+2013	Calderón	Herrera	Brenda	Unidad Pedagógica de San Diego	67.27	No Admitido	Contabilidad y Finanzas
+2013	Morales	Carrillo	Alex Andrey	Colegio Alejandro Quesada Ramírez	97.27	Admitido	Informática en Redes de Computadoras
+2013	Arroyo	Bolaños	Josué	Colegio Alejandro Quesada Ramírez	94.70	Admitido	Informática en Redes de Computadoras
+2013	Chanto	Campos	Allan	Colegio Alejandro Quesada Ramírez	94.56	Admitido	Informática en Redes de Computadoras
+2013	Céspedes	Dominguez	Laura Camila	Liceo de Curridabat	93.57	Admitido	Informática en Redes de Computadoras
+2013	Acuña	Madriz	Alessandro	Colegio Alejandro Quesada Ramírez	89.84	Admitido	Informática en Redes de Computadoras
+2013	Soto	Guillén	David	Unidad Pedagógica de San Diego	89.77	No Admitido	Informática en Redes de Computadoras
+2013	Hernández	Mejía	María Daniela	Liceo Occidental de Cartago	89.17	No Admitido	Informática en Redes de Computadoras
+2013	Umaña	Mena	Erick	Colegio Alejandro Quesada Ramírez	87.21	No Admitido	Informática en Redes de Computadoras
+2013	Chávez	Bolaños	Nelson	Liceo José Joaquín Vargas Calvo	85.68	No Admitido	Informática en Redes de Computadoras
+2013	Calderón	Castillo	Jason	Colegio Alejandro Quesada Ramírez	85.56	No Admitido	Informática en Redes de Computadoras
+2013	Venegas	Chaves	Melany	Liceo de San Diego	85.53	No Admitido	Informática en Redes de Computadoras
+2013	Calvo	Salas	Paula Nathalia	Liceo Occidental de Cartago	84.69	No Admitido	Informática en Redes de Computadoras
+2013	Astúa	Cervantes	Anthony Andrés	Colegio de San Luis Gonzaga	82.04	No Admitido	Informática en Redes de Computadoras
+2013	Morales	Arguello	Katherin	Liceo Occidental de Cartago	81.02	No Admitido	Informática en Redes de Computadoras
+2013	Méndez	Rodríguez	María Fernanda	Colegio de San Luis Gonzaga	80.20	No Admitido	Informática en Redes de Computadoras
+2013	Segura	Rojas	María José	Liceo de San Diego	80.03	No Admitido	Informática en Redes de Computadoras
+2013	Mejía	Elizondo	Emily	Liceo de Poás	79.88	No Admitido	Informática en Redes de Computadoras
+2013	Boza	Ortíz	Wilberth	Liceo de San Diego	79.14	No Admitido	Informática en Redes de Computadoras
+2013	Vega	Calderón	Dayanne Fiorella	Colegio Alejandro Quesada Ramírez	78.27	No Admitido	Informática en Redes de Computadoras
+2013	Elizondo	Quirós	Kendra	Liceo de San Diego	77.53	No Admitido	Informática en Redes de Computadoras
+2013	Vásquez	Ballestero	Daniela	Unidad Pedagógica de San Diego	77.17	No Admitido	Informática en Redes de Computadoras
+2013	Vargas	Rojas	Esteban	C. T. P. de Granadilla	77.00	No Admitido	Informática en Redes de Computadoras
+2013	Valverde	Gutiérrez	Alvaro Andrés	Liceo José Joaquín Vargas Calvo	75.98	No Admitido	Informática en Redes de Computadoras
+2013	Mora	Vega	Didier David	Colegio de San Luis Gonzaga	75.10	No Admitido	Informática en Redes de Computadoras
+2013	Zúñiga	Cárdenas	Alisson	Colegio de San Luis Gonzaga	74.76	No Admitido	Informática en Redes de Computadoras
+2013	González	Gutiérrez	Jesús Alberto	Colegio Alejandro Quesada Ramírez	73.92	No Admitido	Informática en Redes de Computadoras
+2013	Rodríguez	Mora	Alonso	Unidad Pedagógica de San Diego	72.16	No Admitido	Informática en Redes de Computadoras
+2013	Martínez	Matamoros	Oscar Kevin	Liceo de San Diego	70.93	No Admitido	Informática en Redes de Computadoras
+2013	Delgado	Fernández	Luis Rodolfo	Colegio de Cedros	70.68	No Admitido	Informática en Redes de Computadoras
+2013	Vega	Vega	Kendall	Colegio de San Luis Gonzaga	90.86	Admitido	Informática en Soporte Técnico
+2013	Acevedo	Guadamuz	Stefanie Victoria	Centro Educativo Adventista	86.37	Admitido	Informática en Soporte Técnico
+2013	Solís	Obando	Katherine	Liceo de San Diego	79.52	Admitido	Informática en Soporte Técnico
+2013	Araya	Madrigal	Taylor David	Unidad Pedagógica de San Diego	77.52	Admitido	Informática en Soporte Técnico
+2013	Corrales	Chaves	Dorien	Unidad Pedagógica de San Diego	75.03	Admitido	Informática en Soporte Técnico
+2013	Sánchez	Vargas	Francisco	Colegio Alejandro Quesada Ramírez	74.71	Admitido	Informática en Soporte Técnico
+2013	Solera	Belloso	Allan Alexis	Unidad Pedagógica de San Diego	73.69	Admitido	Informática en Soporte Técnico
+2013	Collado	Reyes	Henry Yoel	Colegio Alejandro Quesada Ramírez	73.11	No Admitido	Informática en Soporte Técnico
+2013	Brenes	Sánchez	Heiner Daniel	Colegio Alejandro Quesada Ramírez	72.05	No Admitido	Informática en Soporte Técnico
+2013	Solís	Guzmán	Brayan	Colegio Alejandro Quesada Ramírez	72.03	No Admitido	Informática en Soporte Técnico
+2013	Esquivel	Aguilera	Cristian José	Colegio Alejandro Quesada Ramírez	66.74	No Admitido	Informática en Soporte Técnico
+2013	Vega	Sánchez	Albert Stwart	Unidad Pedagógica de San Diego	65.74	No Admitido	Informática en Soporte Técnico
+2013	García	Chévez	Diego	Unidad Pedagógica de San Diego	65.24	No Admitido	Informática en Soporte Técnico
+2013	Rodríguez	Vargas	Daniel Mauricio	C. T. P. de Granadilla	63.78	No Admitido	Informática en Soporte Técnico
+2013	Romero	Richmond	David	Unidad Pedagógica de San Diego	82.15	Admitido	Mecánica General
+2013	Díaz 	Otárola	Juan Daniel	Liceo José Joaquín Vargas Calvo	71.42	No Admitido	Mecánica General
+2013	Umaña	Montenegro	Manuel Antonio	Colegio Alejandro Quesada Ramírez	67.57	No Admitido	Mecánica General
+2013	Ceciliano	Cerdas	Joselin Adriana	Colegio Alejandro Quesada Ramírez	95.60	Admitido	Secretariado Ejecutivo
+2013	Vargas	Moraga	Jocelyn	Unidad Pedagógica de San Diego	91.38	Admitido	Secretariado Ejecutivo
+2013	Picado	Mora	Jennifer	Colegio Alejandro Quesada Ramírez	90.81	Admitido	Secretariado Ejecutivo
+2013	López	Zamora	Francinis	Colegio Alejandro Quesada Ramírez	87.53	Admitido	Secretariado Ejecutivo
+2013	Espinoza	Esquivel	Cinthia	Unidad Pedagógica de San Diego	87.11	Admitido	Secretariado Ejecutivo
+2013	Alvarado	Ramírez	Raquel	Unidad Pedagógica de San Diego	86.37	Admitido	Secretariado Ejecutivo
+2013	Villalobos 	Méndez	Sofía	Liceo de Curridabat	84.77	Admitido	Secretariado Ejecutivo
+2013	Anchía	Calvo	Alison	Colegio Alejandro Quesada Ramírez	84.65	Admitido	Secretariado Ejecutivo
+2013	Díaz	Méndez	María Daniela	Liceo de Curridabat	83.60	Admitido	Secretariado Ejecutivo
+2013	Zúñiga	Barboza	Michelle	Centro Educativo Saint Josselin	83.45	Admitido	Secretariado Ejecutivo
+2013	González	Valverde	Génesis	Unidad Pedagógica de San Diego	83.27	Admitido	Secretariado Ejecutivo
+2013	Obando	Barquero	María José	Unidad Pedagógica de San Diego	81.57	Admitido	Secretariado Ejecutivo
+2013	Calderón	Barquero	Jorge Luis	Colegio de San Luis Gonzaga	81.28	Admitido	Secretariado Ejecutivo
+2013	Jiménez	Montoya	Valeria	Liceo de San Diego	79.18	Admitido	Secretariado Ejecutivo
+2013	Azofeifa	Molina	José	Unidad Pedagógica de San Diego	79.04	Admitido	Secretariado Ejecutivo
+2013	Richmond	Castro	Raymond Santiago	Liceo José Joaquín Vargas Calvo	77.80	Admitido	Secretariado Ejecutivo
+2013	Cruz	Flores	Lady	Liceo José Joaquín Vargas Calvo	76.01	Admitido	Secretariado Ejecutivo
+2013	Castro	Vega	Rebeca	Liceo José Joaquín Vargas Calvo	74.16	Admitido	Secretariado Ejecutivo
+2013	Altamirano	Sanabria	Nicole Dayanna	Colegio Alejandro Quesada Ramírez	73.78	Admitido	Secretariado Ejecutivo
+2013	Chacón	Espinoza	Natasha	Liceo de San Diego	73.27	Admitido	Secretariado Ejecutivo
+2013	Navas	Sánchez	Selena	Unidad Pedagógica de San Diego	72.93	Admitido	Secretariado Ejecutivo
+2013	Martínez	Salablanca	Joseline Andrea	C. T. P. Santa Rosa de Pocosol	72.80	Admitido	Secretariado Ejecutivo
+2013	Rodríguez	Montenegro	Luis Eduardo	Unidad Pedagógica de San Diego	72.65	Admitido	Secretariado Ejecutivo
+2013	Mesén	Venegas	Jennifer Adriana	Colegio Francisca Carrasco Jiménez	72.58	Admitido	Secretariado Ejecutivo
+2013	Vega	Quirós	Steven	Unidad Pedagógica de San Diego	72.56	Admitido	Secretariado Ejecutivo
+2013	García	Madriz	Yendry	Unidad Pedagógica de San Diego	71.78	Admitido	Secretariado Ejecutivo
+2013	Flores	Castro	Mariví	Unidad Pedagógica de San Diego	69.16	Admitido	Secretariado Ejecutivo
+2013	Mora	Esquivel	Yerling	Unidad Pedagógica de San Diego	66.18	Admitido	Secretariado Ejecutivo
+2014	Montoya	Chavarría	Luis Rodrigo	Colegio de San Luis Gonzaga	86.53	Admitido	Accounting
+2014	Sánchez	Rosas	Aschlyd	Unidad Pedagógica de San Diego	85.87	Admitido	Accounting
+2014	Flores	Sing	María Fernanda	Colegio San Antonio de Padua	84.54	Admitido	Accounting
+2014	García	Sanarrúcia 	Michael	Unidad Pedagógica de San Diego	77.01	Admitido	Accounting
+2014	Solís	Obando	José Reinaldo	Liceo de San Diego	66.81	No Admitido	Banca y Finanzas
+2014	Duarte	Rojas	Aydelin	Colegio Ing. Alejandro Quesada Ramírez	92.50	Admitido	Contabilidad
+2014	Abarca	Barboza	Valeria	Unidad Pedagógica de San Diego	90.00	Admitido	Contabilidad
+2014	Rodríguez	Rosales	Giancarlo	Unidad Pedagógica de San Diego	88.30	Admitido	Contabilidad
+2014	Ampie	Jiménez	Ashley 	Liceo de San Diego	88.30	Admitido	Contabilidad
+2014	Porras	Gómez	Melani	Unidad Pedagógica de San Diego	87.48	Admitido	Contabilidad
+2014	Cruz	Solano	Ashley Pamela	Colegio Ing. Alejandro Quesada Ramírez	84.87	No Admitido	Contabilidad
+2014	Martínez	Saavedra	María Fernanda	Unidad Pedagógica de San Diego	84.43	No Admitido	Contabilidad
+2014	Montero	Montero	Hilary	Unidad Pedagógica de San Diego	83.94	No Admitido	Contabilidad
+2014	Matarrita	Trejos	Marla	Unidad Pedagógica de San Diego	81.39	No Admitido	Contabilidad
+2014	Paiz	Mercado	Enyel Steven	Unidad Pedagógica de San Diego	79.98	No Admitido	Contabilidad
+2014	Gutiérrez	Calderón	Keytin Michelle	C. T. P. de Granadilla	94.60	Admitido	Contabilidad y Auditoría
+2014	Solís	Vado	Raquel del Carmen	Liceo de Curridabat	91.91	Admitido	Contabilidad y Auditoría
+2014	Valverde	Gómez	Franciny	Unidad Pedagógica de San Diego	91.86	Admitido	Contabilidad y Auditoría
+2014	Bustos	Salgado	Karla	Liceo de San Diego	89.94	Admitido	Contabilidad y Auditoría
+2014	Vega	Quirós	María Fernanda	C. T. P. de Granadilla	88.72	Admitido	Contabilidad y Auditoría
+2014	Ortiz	Quirós	Jurgen	Unidad Pedagógica de San Diego	85.13	Admitido	Contabilidad y Auditoría
+2014	Quirós	Hernández	Olga Dayana	Colegio Ing. Alejandro Quesada Ramírez	84.44	Admitido	Contabilidad y Auditoría
+2014	Díaz	Avalos	Eduardo	Colegio Ing. Alejandro Quesada Ramírez	96.16	Admitido	Contabilidad y Finanzas
+2014	Gutiérrez	Vega	Erick Andrés	Liceo de San Diego	92.78	Admitido	Contabilidad y Finanzas
+2014	López	Carvajal	Ismara Kasandra	C. T. P. de Granadilla	91.58	Admitido	Contabilidad y Finanzas
+2014	Zúñiga	Vargas	Eva Charlene	Colegio Ing. Alejandro Quesada Ramírez	90.93	Admitido	Contabilidad y Finanzas
+2014	Granados	Sánchez	Pamela María	Colegio Ing. Alejandro Quesada Ramírez	90.46	Admitido	Contabilidad y Finanzas
+2014	Cortés	Badilla	Jéssica Alexandra	Liceo José Joaquín vargas Calvo	89.59	Admitido	Contabilidad y Finanzas
+2014	Acuña	Fallas	Francini María	Colegio Ing. Alejandro Quesada Ramírez	88.56	Admitido	Contabilidad y Finanzas
+2014	Bonilla	Lara	Kristin	Unidad Pedagógica de San Diego	87.06	Admitido	Contabilidad y Finanzas
+2014	Rodríguez	Badilla	Laura Priscilla	Liceo de San Diego	86.75	Admitido	Contabilidad y Finanzas
+2014	Villatoro	López	Minord Francisco	Colegio Ing. Alejandro Quesada Ramírez	86.41	Admitido	Contabilidad y Finanzas
+2014	Mora	Marchena	Allison	Liceo de San Diego	85.96	Admitido	Contabilidad y Finanzas
+2014	Víquez	Picado	Flor	Unidad Pedagógica de San Diego	85.62	Admitido	Contabilidad y Finanzas
+2014	Romero	Díaz	Karen Amanda	Liceo de San Diego	84.66	Admitido	Contabilidad y Finanzas
+2014	Araya	Gutiérrez	Danya Rebeca	Colegio Ing. Alejandro Quesada Ramírez	84.22	Admitido	Contabilidad y Finanzas
+2014	Esquivel	Aguilera	Arleth de los Angeles	Colegio Ing. Alejandro Quesada Ramírez	83.33	Admitido	Contabilidad y Finanzas
+2014	Zúñiga	Obando	Jocelyne María	Colegio El Rosario	59.68	No Admitido	Contabilidad y Finanzas
+2014	Flores	Porras	Karol Tatiana	Unidad Pedagógica de San Diego	55.38	No Admitido	Contabilidad y Finanzas
+2014	Montero	Quirós	Marianny Fernanda	Unidad Pedagógica de San Siego	88.22	Admitido	Dibujo Técnico
+2014	Quesada	Fallas	Abigaíl	Iribó School 	87.33	Admitido	Dibujo Técnico
+2014	Durán	Aguilar	Andreina Joseth	C. T. P. de Granadilla	80.26	Admitido	Dibujo Técnico
+2014	Solano	Morales	Deiver	Colegio Ing. Alejandro Quesada Ramírez	79.50	Admitido	Dibujo Técnico
+2014	Vargas	Sánchez	María Fernanda	C. T. P. de Granadilla	75.56	No Admitido	Dibujo Técnico
+2014	Flores	Hernández	Rolando José	Unidad Pedagógica de San Siego	74.78	No Admitido	Dibujo Técnico
+2014	Campos	Linares	Marco	Unidad Pedagógica de San Siego	73.65	No Admitido	Dibujo Técnico
+2014	Zúñiga 	Morales	Wilberth Francisco	Colegio Ing. Alejandro Quesada Ramírez	71.87	No Admitido	Dibujo Técnico
+2014	Hernández	Serrano	Cristel Francini	Colegio Ing. Alejandro Quesada Ramírez	71.48	No Admitido	Dibujo Técnico
+2014	Solano	Jiménez	Diana Priscilla	Colegio Ing. Alejandro Quesada Ramírez	69.10	No Admitido	Dibujo Técnico
+2014	Delgado	Loaiza	Audrey Arnoldo	Unidad Pedagógica de San Siego	53.40	No Admitido	Dibujo Técnico
+2014	Campos	Fallas	Gisela Geanina 	C. T. P. de Granadilla	92.95	No Admitido	Diseño y Confección de la Moda
+2014	Salazar	Gutiérrez	Mary Paula	Saint Joselyn Day School and College	92.44	No Admitido	Diseño y Confección de la Moda
+2014	Centeno	Solano	Maribel de los Angeles	Liceo José Joaquín Vargas Calvo	92.24	No Admitido	Diseño y Confección de la Moda
+2014	Jiménez	Amador	James Romei	Liceo San Antonio	91.56	Admitido	Ejecutivo para Centros de Servicios
+2014	Mejías	Sosa	José Arturo	Liceo de Curridabat	85.13	Admitido	Ejecutivo para Centros de Servicios
+2014	Sequeira	Espinoza	Bryan José	C. T. P. de Granadilla	84.16	Admitido	Ejecutivo para Centros de Servicios
+2014	Zamora	Guzmán	María Fernanda	Sistema Educativa Bilingüe Virgen del Pilar	81.92	Admitido	Ejecutivo para Centros de Servicios
+2014	Montoya	Díaz	Sebastián Jesús	C. T. P. de Granadilla	81.80	Admitido	Ejecutivo para Centros de Servicios
+2014	Zamora	Brenes	Johnny	Unidad Pedagógica de San Diego	80.29	Admitido	Ejecutivo para Centros de Servicios
+2014	Soto	Céspedes	Giancarlo	Sistema Educativa Bilingüe Virgen del Pilar	80.22	Admitido	Ejecutivo para Centros de Servicios
+2014	Escobar	Salgado	Jessica Antonia	C. T. P. de Granadilla	78.60	Admitido	Ejecutivo para Centros de Servicios
+2014	Mora	Castellón	Steve Mauricio	C. T. P. de Granadilla	76.64	Admitido	Ejecutivo para Centros de Servicios
+2014	Padilla	Mata	Wendy Melissa	Unidad Pedagógica de San Diego	76.56	No Admitido	Ejecutivo para Centros de Servicios
+2014	Mora	Cordero	David José	Liceo Rodrigo Facio Brenes	76.52	No Admitido	Ejecutivo para Centros de Servicios
+2014	Jiménez	Mendoza	Rebeca	Unidad Pedagógica de San Diego	69.72	No Admitido	Ejecutivo para Centros de Servicios
+2014	Adams	Munguía	Yendry	Liceo de Alajuelita	69.17	No Admitido	Ejecutivo para Centros de Servicios
+2014	Martínez	Ramírez	Wendy	Unidad Pedagógica de San Diego	68.92	No Admitido	Ejecutivo para Centros de Servicios
+2014	Ruiz	Miranda	Brandon José	Colegio de San Luis Gonzaga	65.88	No Admitido	Ejecutivo para Centros de Servicios
+2014	Esparza	Sosa	Winona Rashel	Colegio de Cedros	65.45	No Admitido	Ejecutivo para Centros de Servicios
+2014	Rosales	Rodríguez	Angel Joseph	Unidad Pedagógica de San Diego	86.73	Admitido	Informática en Redes de Computadoras
+2014	Sánchez	Córdoba	Jordi Alcides	C. T. P. de Granadilla	86.71	Admitido	Informática en Redes de Computadoras
+2014	Blanco	Jaen	Randall Antonio	Unidad Pedagógica de San Diego	86.70	Admitido	Informática en Redes de Computadoras
+2014	Padilla	Zúñiga	Taylor Steven	Liceo de Curridabat	84.66	Admitido	Informática en Redes de Computadoras
+2014	Salazar	Delgado	Luis Diego	Unidad Pedagógica de San Diego	84.47	Admitido	Informática en Redes de Computadoras
+2014	Ugalde	Salazar	Jesús Alberto	Unidad Pedagógica de San Diego	82.38	No Admitido	Informática en Redes de Computadoras
+2014	Núñez	Cordero	Joshua Gilberth	Colegio Ing. Alejandro Quesada Ramírez	81.91	No Admitido	Informática en Redes de Computadoras
+2014	Víquez	Chacón	César 	Sistema Educativo Bilingüe Virgen del Pilar	81.01	No Admitido	Informática en Redes de Computadoras
+2014	Elizondo	Rocha	Tatiana de los Angeles	Colegio Ing. Alejandro Quesada Ramírez	80.06	No Admitido	Informática en Redes de Computadoras
+2014	Villalobos	Prado	Diego Alberto	Colegio Ing. Alejandro Quesada Ramírez	79.14	No Admitido	Informática en Redes de Computadoras
+2014	Soto	Esquivel	Derick Yohel	Unidad Pedagógica de San Diego	78.63	No Admitido	Informática en Redes de Computadoras
+2014	García 	Calderón	Jeferson	Unidad Pedagógica de San Diego	78.56	No Admitido	Informática en Redes de Computadoras
+2014	García 	Chévez	Diego Ignacio	C. T. P. de Granadilla	78.43	No Admitido	Informática en Redes de Computadoras
+2014	Núñez	Ceciliano	Bryan Josué	Colegio Ing. Alejandro Quesada Ramírez	78.34	No Admitido	Informática en Redes de Computadoras
+2014	Artavia	Campos	Luis Diego	C. T. P. de Granadilla	77.78	No Admitido	Informática en Redes de Computadoras
+2014	Sanabria	Mora	Aaron Jafet	Colegio Ing. Alejandro Quesada Ramírez	77.04	No Admitido	Informática en Redes de Computadoras
+2014	Barrantes	Sanabria	Kimberly Andrea	Colegio Ing. Alejandro Quesada Ramírez	72.70	No Admitido	Informática en Redes de Computadoras
+2014	Castrillo	Morera	Mariano	C. T. P. de Granadilla	49.91	No Admitido	Informática en Redes de Computadoras
+2014	Meneses	Vargas	José Esteban	Colegio de San Luis Gonzaga	83.36	Admitido	Informática en Soporte Técnico
+2014	Guerrero	Salas	Josué Patricio	Colegio Ing. Alejandro Quesada Ramírez	79.28	Admitido	Informática en Soporte Técnico
+2014	Sulliotti	Linner	Aldo	Unidad Pedagógica de San Diego	79.01	Admitido	Informática en Soporte Técnico
+2014	Díaz	Hernández	Gianina María	Colegio Ing. Alejandro Quesada Ramírez	78.85	Admitido	Informática en Soporte Técnico
+2014	Vargas	Munguía	Ian Jossuhe	Liceo de San Diego	78.46	Admitido	Informática en Soporte Técnico
+2014	Fallas	Barquero	José Rodolfo	Unidad Pedagógica de San Diego	78.45	Admitido	Informática en Soporte Técnico
+2014	Díaz	Córdoba	Fabián Eduardo	Colegio Ing. Alejandro Quesada Ramírez	77.98	Admitido	Informática en Soporte Técnico
+2014	Guzmán	Salazar	Rafael Ángel	Unidad Pedagógica de San Diego	74.57	Admitido	Informática en Soporte Técnico
+2014	Pérez	Cedeño	Keyler José	Unidad Pedagógica de San Diego	74.54	No Admitido	Informática en Soporte Técnico
+2014	Cordero	Valverde	Luis Gerardo	Liceo de San Diego	74.16	No Admitido	Informática en Soporte Técnico
+2014	Álvarez	Poveda	James Emanuelle	Liceo Anastasio Alfaro	73.47	No Admitido	Informática en Soporte Técnico
+2014	Seas	Meneses	Sandro Daniel	C. T. P. de Granadilla 	73.09	No Admitido	Informática en Soporte Técnico
+2014	Gómez 	Camacho	Jason Alberto	Unidad Pedagógica de San Diego	73.02	No Admitido	Informática en Soporte Técnico
+2014	Cóndega	Sánchez	María Celeste	C. T. P. de Granadilla 	64.87	No Admitido	Informática en Soporte Técnico
+2014	Valderramos	Ovares	Neiver Froilán	Colegio Ing. Alejandro Quesada Ramírez	61.38	No Admitido	Informática en Soporte Técnico
+2014	Moya	Mejías	Jordan Adolfo	C. T. P. de Granadilla	87.89	Admitido	Mecánica General
+2014	Artavia	Bolaños	Brandon Geovanny	C. T. P. de Granadilla	84.98	Admitido	Mecánica General
+2014	Cerdas	Pérez	Yuliana Pamela	Colegio de San Luis Gonzaga	83.46	Admitido	Mecánica General
+2014	Matamoros	Sánchez	Ricardo Enoc	Liceo Nuevo de San Diego	82.63	Admitido	Mecánica General
+2014	Bonilla	Gamboa	David Santiago	Colegio Ing. Alejandro Quesada Ramírez	82.45	Admitido	Mecánica General
+2014	Salas	Díaz	José Andrés	Colegio de Cedros	80.60	Admitido	Mecánica General
+2014	Segura	Hidalgo	Mario Francisco	Colegio Ing. Alejandro Quesada Ramírez	78.04	Admitido	Mecánica General
+2014	Esquivel	Redondo	Brayan Josué	Colegio de Cedros	75.50	Admitido	Mecánica General
+2014	Bermúdez	Ramírez	José Paulo	Sistema Educativo Bilingüe Virgen del Pilar	75.41	No Admitido	Mecánica General
+2014	Ramos	Hernández	Cristian	Unidad Pedagógica de San Diego	43.04	No Admitido	Mecánica General
+2014	Ceciliano	Cerdas	Cecilio Osvaldo	Colegio Ing. Alejandro Quesada Ramírez	98.39	Admitido	Secretariado Ejecutivo
+2014	Valerín	Villarreal	María Paula	Liceo de San Diego	94.08	Admitido	Secretariado Ejecutivo
+2014	Vargas	Cubero	Yariela	C. T. P. de Granadilla	93.74	Admitido	Secretariado Ejecutivo
+2014	Mesén	Obando	Néstor	Liceo de San Diego	93.47	Admitido	Secretariado Ejecutivo
+2014	Córdoba	Anchía	Angélica María	Colegio Ing. Alejandro Quesada Ramírez	92.20	Admitido	Secretariado Ejecutivo
+2014	Gutiérrez	Zúñiga	Valeria Sofía	Colegio Ing. Alejandro Quesada Ramírez	90.73	Admitido	Secretariado Ejecutivo
+2014	Jiménez	Madrigal	Leilyn Lisbeth	Liceo de San Diego	90.51	Admitido	Secretariado Ejecutivo
+2014	Navarro	Gutiérrez	Dayanna José	Colegio Ing. Alejandro Quesada Ramírez	90.00	Admitido	Secretariado Ejecutivo
+2014	Salas	Mora	Yendry	Colegio Ing. Alejandro Quesada Ramírez	89.50	Admitido	Secretariado Ejecutivo
+2014	Méndez	Fallas	Daniela	Colegio Ing. Alejandro Quesada Ramírez	88.95	Admitido	Secretariado Ejecutivo
+2014	Vargas	Padilla	Stephanie	Liceo de San Diego	88.83	Admitido	Secretariado Ejecutivo
+2014	Flores	Chavarría	María José	Colegio de San Luis Gonzaga	88.77	Admitido	Secretariado Ejecutivo
+2014	Quirós	Andrade	Ricardo	Liceo de San Diego	88.38	Admitido	Secretariado Ejecutivo
+2014	Solano	Gaitán 	Raquel	Colegio de San Luis Gonzaga	88.34	Admitido	Secretariado Ejecutivo
+2014	Chacón	Luna	Valeria	Unidad Pedagógica de San Diego	87.85	Admitido	Secretariado Ejecutivo
+2014	Miranda	Téllez	Zaira del Socorro	Colegio Ing. Alejandro Quesada Ramírez	87.72	Admitido	Secretariado Ejecutivo
+2014	Méndez	Jaime	Hellen	Unidad Pedagógica de San Diego	87.31	Admitido	Secretariado Ejecutivo
+2014	Carballo	Paniagua	Valeria Alejandra	Unidad Pedagógica de San Diego	87.00	Admitido	Secretariado Ejecutivo
+2014	González	Rodríguez	Angélica María	Liceo de San Diego	87.00	Admitido	Secretariado Ejecutivo
+2014	Pavón	Ampié	Nicole Carolina	Liceo de San Diego	86.61	Admitido	Secretariado Ejecutivo
+2014	Naranjo	Vargas	Susan Melania	Liceo de San Diego	84.95	Admitido	Secretariado Ejecutivo
+2014	Montoya	Elizondo	Karla	Liceo de San Diego	84.87	Admitido	Secretariado Ejecutivo
+2014	Meléndez	Mena	Alexa Dayana	Liceo de San Diego	84.79	Admitido	Secretariado Ejecutivo
+2014	Montoya	Calderón	María Isabel	Liceo de San Diego	84.44	Admitido	Secretariado Ejecutivo
+2014	Monestel	Picado	Adriana	Unidad Pedagógica de San Diego	82.69	Admitido	Secretariado Ejecutivo
+2014	Pereira	Garita	Melissa del Milagro	Unidad Pedagógica de San Diego	82.07	Admitido	Secretariado Ejecutivo
+2014	Rivera	Rodríguez	María Paula	Unidad Pedagógica de San Diego	81.82	Admitido	Secretariado Ejecutivo
+2014	Monge	Alpízar	Mariam	Unidad Pedagógica de San Diego	81.26	Admitido	Secretariado Ejecutivo
+2014	Soto	Badilla	Kimberly	Colegio Ing. Alejandro Quesada Ramírez	80.80	Admitido	Secretariado Ejecutivo
+2014	Sánchez	Oviedo	Estefanía	Unidad Pedagógica de San Diego	80.67	Admitido	Secretariado Ejecutivo
+2014	Naranjo	León	Fiorella	Unidad Pedagógica de San Diego	80.45	Admitido	Secretariado Ejecutivo
+2014	Calvo	Obando	Pamela	Liceo de San Diego	78.68	Admitido	Secretariado Ejecutivo
+2014	Sniet	Martínez	Josseline	Liceo de San Diego	78.40	Admitido	Secretariado Ejecutivo
+2014	Bermúdez	Solís	Yahaira María	Colegio Ing. Alejandro Quesada Ramírez	74.52	Admitido	Secretariado Ejecutivo
+2014	Chacón	Alvarado	Jennifer	C. T. P. de Granadilla	57.09	No Admitido	Secretariado Ejecutivo
+2014	Paiz	Andino	Allison Dayana	Liceo del Sur	48.04	No Admitido	Secretariado Ejecutivo
+2015	Alvarado	Calvo	Lizeth	Liceo Nuevo de San Diego	76.05	Admitido	Accounting
+2015	Rodríguez	Badilla	Brenda	Liceo Nuevo de San Diego	70.56	Admitido	Accounting
+2015	Rodríguez	Acevedo 	Ashli	Unidad Pedagógica San Diego	70.42	No Admitido	Accounting
+2015	Rodríguez	Castillo 	Pablo César	Angel High School	64.36	No Admitido	Accounting
+2015	Garro	Colomer	Miguel	Unidad Pedagógica San Diego	62.92	No Admitido	Accounting
+2015	Torres	Chaves	Diana Carolina	Liceo Nuevo de San Diego	62.15	No Admitido	Accounting
+2015	Reyes	Campos	Fressia Nathalia	Liceo Nuevo de San Diego	59.25	No Admitido	Accounting
+2015	Quirós	Calvo	Michael Alberto	C. T. P. de Granadilla	57.91	No Admitido	Accounting
+2015	Díaz	Parra	Oscar	Colegio Ing. Alejandro Quesada Ramírez	56.05	No Admitido	Accounting
+2015	Calderón	Montero	Jacqueline Andrea	Liceo Nuevo de San Diego	53.07	No Admitido	Accounting
+2015	García	Muñoz	Sianny Rachell	Colegio Ing. Alejandro Quesada Ramírez	50.09	No Admitido	Accounting
+2015	Herrera	Martínez	Joselyn	Liceo Virgen de la Medalla Milagrosa	42.57	No Admitido	Diseño y Confección de la Moda
+2015	Rodríguez	García	Kristin	Unidad Pedagógica de San Diego	90.36	Admitido	Ejecutivo para Centros de Servicios
+2015	Luna	Castillo	Hilary	C. T. P. de Granadilla	83.04	Admitido	Ejecutivo para Centros de Servicios
+2015	Arias	Delgado	Nashla Siham	Colegio de San Luis Gonzaga	82.94	Admitido	Ejecutivo para Centros de Servicios
+2015	Alfaro	Díaz	Valeria	Centro Educativo Campestre	81.62	Admitido	Ejecutivo para Centros de Servicios
+2015	Padilla	Mata	Leonardo Andrés	Unidad Pedagógica de San Diego	77.53	Admitido	Ejecutivo para Centros de Servicios
+2015	López	Duarte	Carlos Alberto	Liceo Nuevo de San Diego	70.21	No Admitido	Ejecutivo para Centros de Servicios
+2015	Solano	Calvo	Lindsey 	Unidad Pedagógica de San Diego	68.59	No Admitido	Ejecutivo para Centros de Servicios
+2015	Víquez	Araya	Jefferson	Colegio Ing. Alejandro Quesada Ramírez	67.32	No Admitido	Ejecutivo para Centros de Servicios
+2015	Jiménez	Hurtado	María José	Liceo Nuevo de San Diego	65.68	No Admitido	Ejecutivo para Centros de Servicios
+2015	Salas	Carmona	Ebony Seline	Unidad Pedagógica de San Diego	55.44	No Admitido	Ejecutivo para Centros de Servicios
+2015	Gutiérrez	Manzanares	Adriana	Unidad Pedagógica de San Diego	55.29	No Admitido	Ejecutivo para Centros de Servicios
+2015	Calvo	Centeno	Kimberly Dayanna	Unidad Pedagógica de San Diego	54.70	No Admitido	Ejecutivo para Centros de Servicios
+2015	Rodríguez	Mejía	Raquel Fabiola	Colegio Ing. Alejandro Quesada Ramírez	53.55	No Admitido	Ejecutivo para Centros de Servicios
+2015	Lanzas	López	Yanci Tatiana	Colegio Ing. Alejandro Quesada Ramírez	49.81	No Admitido	Ejecutivo para Centros de Servicios
+2015	Salvatierra	Castillo	Daniel Alberto	Unidad Pedagógica San Diego	49.25	No Admitido	Ejecutivo para Centros de Servicios
+2015	Castillo	Rodríguez	Allison Nicole	Colegio Ing. Alejandro Quesada Ramírez	48.03	No Admitido	Ejecutivo para Centros de Servicios
+2015	Calderón	Avilez	Jeniffer Valeria	Unidad Pedagógica de San Diego	43.10	No Admitido	Ejecutivo para Centros de Servicios
+2015	Rodríguez	Marín	Adrián	Colegio Ing. Alejandro Quesada Ramírez	88.26	Admitido	Informática en Redes de Computadoras
+2015	Esquivel	Calderón	Kevin	Colegio Internacional Canadiense	88.17	Admitido	Informática en Redes de Computadoras
+2015	Martínez	Marchena	Bairon Estiven	Liceo Nuevo de San Diego	86.41	Admitido	Informática en Redes de Computadoras
+2015	Sánchez	Vega	Bryan Josué	Sistema Educativo Whitman	85.48	Admitido	Informática en Redes de Computadoras
+2015	Díaz	Fonseca	Jesús	C. T. P. de Granadilla	85.34	Admitido	Informática en Redes de Computadoras
+2015	Sánchez	Brenes	José Pablo	Colegio Ing. Alejandro Quesada Ramírez	85.15	Admitido	Informática en Redes de Computadoras
+2015	Mesén 	Guillén	Kristhel Daniela	Liceo José Joaquín Vargas Calvo	84.65	Admitido	Informática en Redes de Computadoras
+2015	Chavarría	Rojas	Kevin Johan 	Colegio Ing. Alejandro Quesada Ramírez	84.65	Admitido	Informática en Redes de Computadoras
+2015	Barquero	Cordero	Isaac Jesús	Liceo José Joaquín Vargas Calvo	84.31	No Admitido	Informática en Redes de Computadoras
+2015	Hernández	Umaña	Mariana	C. T. P. de Granadilla	84.20	No Admitido	Informática en Redes de Computadoras
+2015	Quirós 	Delgado	David Andrés	Liceo Nuevo de San Diego	84.14	No Admitido	Informática en Redes de Computadoras
+2015	Narvaez	Ramírez	Kenneth	Unidad Pedagógica San Diego	83.76	No Admitido	Informática en Redes de Computadoras
+2015	Espinoza	Carrillo	Diego	Liceo Nuevo de San Diego	81.94	No Admitido	Informática en Redes de Computadoras
+2015	Aragón	Arrieta	Luis Carlos	Colegio José Joaquín Vargas Calvo	81.84	No Admitido	Informática en Redes de Computadoras
+2015	Acuña	Reyes	Jason	Colegio Ing. Alejandro Quesada Ramírez	80.06	No Admitido	Informática en Redes de Computadoras
+2015	González	Matamoros	Brandon	Liceo Nuevo de San Diego	77.63	No Admitido	Informática en Redes de Computadoras
+2015	Mora	Rojas	Reynner	Unidad Pedagógica San Diego	77.27	No Admitido	Informática en Redes de Computadoras
+2015	Pérez	Cedeño	Keyler	Unidad Pedagógica de San Diego	77.24	No Admitido	Informática en Redes de Computadoras
+2015	Cano	Guadamuz	Steven Francisco	Colegio Ing. Alejandro Quesada Ramírez	76.21	No Admitido	Informática en Redes de Computadoras
+2015	Chaverri	Sandí	Axell Felipe	Colegio Ing. Alejandro Quesada Ramírez	73.95	No Admitido	Informática en Redes de Computadoras
+2015	Rodríguez	Gutiérrez	Dairyn Dayana	Unidad Pedagógica de San Diego	73.91	No Admitido	Informática en Redes de Computadoras
+2015	Barrantes	Calderón	Wilberth	Liceo José Joaquín Vargas Calvo	52.23	No Admitido	Informática en Redes de Computadoras
+2015	Morales	Granados	Luis Daniel 	Colegio de San Luis Gonzaga	84.48	Admitido	Informática en Soporte Técnico
+2015	Hernández	López	Erick Andrés	Liceo de Curridabat	80.43	Admitido	Informática en Soporte Técnico
+2015	Hernández	Pandolfi	Joshua Esteban	C. T. P. de Granadilla	78.02	Admitido	Informática en Soporte Técnico
+2015	Vega	Sanabria	Cristofer	Liceo de Curridabat	77.49	No Admitido	Informática en Soporte Técnico
+2015	Fuentes	Vargas	Natalia María	Liceo Nuevo de San Diego	74.88	No Admitido	Informática en Soporte Técnico
+2015	González	López	Leandro Enrique	Unidad Pedagógica San Diego	72.63	No Admitido	Informática en Soporte Técnico
+2015	Solano	Mesén	Pablo Gabriel	Unidad Pedagógica San Diego	72.48	No Admitido	Informática en Soporte Técnico
+2015	Garita	Navarro	Antony Josué	Colegio de San Luis Gonzaga	70.79	No Admitido	Informática en Soporte Técnico
+2015	Chavarría	Venegas	Marvin Adrián	Colegio Ing. Alejandro Quesada Ramírez	64.71	No Admitido	Informática en Soporte Técnico
+2015	Molina	Arias	Sharon Geraldine	Colegio Ing. Alejandro Quesada Ramírez	63.20	No Admitido	Informática en Soporte Técnico
+2015	Valerio	Bello	Emanuel	Liceo José Joaquín Vargas Calvo	59.65	No Admitido	Informática en Soporte Técnico
+2015	Paiz	Mercado	Jack 	Unidad Pedagógica San Diego	59.53	No Admitido	Informática en Soporte Técnico
+2015	Cordero	Recio	Daniela	Colegio Ing. Alejandro Quesada Ramírez	92.38	Admitido	Secretariado Ejecutivo
+2015	Salazar	Díaz	Natalia	Unidad Pedagógica de San Diego	89.73	Admitido	Secretariado Ejecutivo
+2015	Calderón	Araya	Aderid Elena	C. T. P. Mario Quirós Sasso	89.50	Admitido	Secretariado Ejecutivo
+2015	Calderón	Arana	Ethan	Unidad Pedagógica de San Diego	88.86	Admitido	Secretariado Ejecutivo
+2015	Montoya	Quesada	Reychell	Unidad Pedagógica de San Diego	88.44	Admitido	Secretariado Ejecutivo
+2015	Brenes	Zúñiga	Nancy Valeria	C. T. P. Mario Quirós Sasso	87.19	Admitido	Secretariado Ejecutivo
+2015	Villegas	Arias	Carlos Alberto	Colegio Ing. Alejandro Quesada Ramírez	87.10	Admitido	Secretariado Ejecutivo
+2015	Navarro	Gutiérrez	Marialy	Liceo San Nicolás de Tolentino	86.99	Admitido	Secretariado Ejecutivo
+2015	Gómez	Palma	María José	Liceo José Joaquín Vargas Calvo	85.19	Admitido	Secretariado Ejecutivo
+2015	Rivera	Alvarado	Marlon	Colegio de San Luis Gonzaga	85.04	Admitido	Secretariado Ejecutivo
+2015	Arana	Ríos	Tracy Pamela	Colegio de San Luis Gonzaga	83.34	No Admitido	Secretariado Ejecutivo
+2015	Flores	Gutiérrez	Karen	Unidad Pedagógica de San Diego	82.96	No Admitido	Secretariado Ejecutivo
+2015	Salas	Quesada	Jessamin	Unidad Pedagógica de San Diego	82.26	No Admitido	Secretariado Ejecutivo
+2015	Mata	Solano	Carolina	Colegio Ing. Alejandro Quesada Ramírez	81.73	No Admitido	Secretariado Ejecutivo
+2015	Barquero	Meneses	Priscilla	Unidad Pedagógica de San Diego	81.48	No Admitido	Secretariado Ejecutivo
+2015	Araya	Espinoza	Cristofer Andrés	Liceo José Joaquín Vargas Calvo	85.45	Admitido	Contabilidad
+2015	Mora	Fallas	Breyner	Liceo José Joaquín Vargas Calvo	86.12	Admitido	Contabilidad
+2015	Sánchez	Jarquín	Ronald	Unidad Pedagógica San Diego	81.89	Admitido	Contabilidad
+2015	Ríos	Molina	Lonny	Colegio Ing. Alejandro Quesada Ramírez	81.20	Admitido	Contabilidad
+2015	Calvo	Peralta	Sebastián	Unidad Pedagógica San Diego	78.01	Admitido	Contabilidad
+2015	Pérez	Gómez	Bryan	Liceo de Curridabat	74.73	No Admitido	Contabilidad
+2015	Salinas	Silva	Glenda	Unidad Pedagógica San Diego	72.35	No Admitido	Contabilidad
+2015	Montero	Martínez	Valery	C. T. P. de Granadilla	93.09	Admitido	Contabilidad y Auditoría
+2015	Arguedas	Montealegre	Laura Melissa	C. T. P. de Granadilla	92.61	Admitido	Contabilidad y Auditoría
+2015	Sequeira	Flores	Raquel	Liceo Dr. José María Castro Madriz	90.30	Admitido	Contabilidad y Auditoría
+2015	Abarca	Rodríguez	Pamela Melissa	C. T. P. de Granadilla	87.06	Admitido	Contabilidad y Auditoría
+2015	Montoya	Dìaz	Santiago	C. T. P. de Granadilla	80.81	Admitido	Contabilidad y Auditoría
+2015	Astúa	Ondoy	Maricruz	Unidad Pedagógica Sotero González Barquero	80.10	Admitido	Contabilidad y Auditoría
+2015	Sánchez 	Trujillo	Karen Julieth	Sistema Educativo Whitman	92.64	Admitido	Contabilidad y Finanzas
+2015	Camacho	Fonseca	Solanyi	Colegio Ing. Alejandro Quesada Ramírez	90.34	Admitido	Contabilidad y Finanzas
+2015	Ruiz	Salazar	Sandy Karina	Liceo de Moravia	87.81	Admitido	Contabilidad y Finanzas
+2015	Aguilar	Valdelomar	Valeria	Colegio Ing. Alejandro Quesada Ramírez	86.23	Admitido	Contabilidad y Finanzas
+2015	Vargas	Pérez	Jim Moisés	Liceo Nuevo de San Diego	84.40	Admitido	Contabilidad y Finanzas
+2015	Mata	Bonilla	Jennifer	Liceo José Joaquín Vargas Calvo	83.86	Admitido	Contabilidad y Finanzas
+2015	Azofeifa	Brenes	Emily	Colegio Ing. Alejandro Quesada Ramírez	83.42	Admitido	Contabilidad y Finanzas
+2015	Mora	Quesada	Keren Rebeca	Colegio Ing. Alejandro Quesada Ramírez	83.04	Admitido	Contabilidad y Finanzas
+2015	Zúñiga	Seas	Valery Pamela	Colegio Ing. Alejandro Quesada Ramírez	82.94	Admitido	Contabilidad y Finanzas
+2015	Torres	Ureña	Lanceloth Alberto	Colegio Ing. Alejandro Quesada Ramírez	82.18	Admitido	Contabilidad y Finanzas
+2015	Lazo	Chavarría	Raxella	Liceo Luis Dobles Segreda	81.21	No Admitido	Contabilidad y Finanzas
+2015	Vidal	Víquez	María José	Colegio Ing. Alejandro Quesada Ramírez	79.53	No Admitido	Contabilidad y Finanzas
+2015	Martínez	Aguirre	Allison Dayana	Liceo Nuevo de San Diego	78.68	No Admitido	Contabilidad y Finanzas
+2015	Rivera	Castillo	Joan Jesús	Unidad Pedagógica San Diego	75.78	No Admitido	Contabilidad y Finanzas
+2015	Sobalvarro	Cruz	José Enrique	Liceo José Joaquín Vargas Calvo	75.39	No Admitido	Contabilidad y Finanzas
+2015	Conejo	Amador	Jorge Manuel	Unidad Pedagógica San Diego	74.47	No Admitido	Contabilidad y Finanzas
+2015	Mora	Meléndez	Diana Jossette	Colegio Ing. Alejandro Quesada Ramírez	90.83	Admitido	Dibujo Técnico
+2015	Sánchez	Sánchez	David Esteban	Liceo de Costa Rica	84.58	Admitido	Dibujo Técnico
+2015	Sosa	Abarca	César Andrés	Unidad Pedagógica San Diego	81.68	Admitido	Dibujo Técnico
+2015	Rojas	Gómez	Josabeth	Unidad Pedagógica San Diego	79.85	Admitido	Dibujo Técnico
+2015	Obando	Muñoz	Keyrin	Colegio Ing. Alejandro Quesada Ramírez	75.11	Admitido	Dibujo Técnico
+2015	Fuentes	Chamorro	Kimberly	Colegio Ing. Alejandro Quesada Ramírez	73.64	Admitido	Dibujo Técnico
+2016	Araya	García	Marbell Priscilla	Colegio Ing. Alejandro Quesada Ramírez	72.94	No Admitido	Banca y Finanzas
+2016	García	Abea	María Edith	Liceo José Joaquín Vargas Calvo	71.90	No Admitido	Banca y Finanzas
+2016	Navarro	Vargas	Luis Miguel	Unidad Pedagógica San Diego	28.24	No Admitido	Banca y Finanzas
+2016	Castro	Bermúdez	Elián José	Unidad Pedagógica San Diego	74.06	Admitido	Contabilidad
+2016	Morales	Uriarte	Walter Josué	Liceo Nuevo de San Diego	70.50	Admitido	Contabilidad
+2016	Malespín	Rodríguez	José Arturo	Unidad Pedagógica San Diego 	67.67	Admitido	Contabilidad
+2016	Conejo	Barquero	Krissia Nicole	Colegio de Santa Ana	65.20	Admitido	Contabilidad
+2016	Pèrez	Arostegui	Yendry Kimberline	Unidad Pedagógica San Diego	63.91	No Admitido	Contabilidad
+2016	Lacayo	Tapia	Oscar Joel	Unidad Pedagógica San Diego 	61.92	No Admitido	Contabilidad
+2016	Martínez	Orozco	Estherling	Unidad Pedagógica San Diego	61.79	No Admitido	Contabilidad
+2016	Hernández	Santos	María Fernanda	C. T. P. del Este	57.60	No Admitido	Contabilidad
+2016	Chacón	Quesada	Kevin Emanuel	Liceo José Joaquín Vargas Calvo	83.26	Admitido	Contabilidad y Auditoría
+2016	Valencia	Cascante	Danilo	Unidad Pedagógica San Diego	79.41	Admitido	Contabilidad y Auditoría
+2016	Solano	Fonseca	Stacy Valeska	Unidad Pedagógica San Diego	78.47	Admitido	Contabilidad y Auditoría
+2016	Hernández	Angulo	Andrei 	Unidad Pedagógica San Diego	77.51	Admitido	Contabilidad y Auditoría
+2016	Vega	Sánchez	Katherine Francini	Unidad Pedagógica San Diego	76.46	Admitido	Contabilidad y Auditoría
+2016	Ramos	Alfaro	María Paula	Unidad Pedagógica San Diego	72.04	No Admitido	Contabilidad y Auditoría
+2016	Mayorga	Mena	Laura de Jesús	Liceo Nuevo de San Diego	71.95	No Admitido	Contabilidad y Auditoría
+2016	García	Abea	María Edith	Liceo José Joaquín Vargas Calvo	71.90	No Admitido	Contabilidad y Auditoría
+2016	Obando	Orias	Wendy	Liceo Nuevo de San Diego	68.98	No Admitido	Contabilidad y Auditoría
+2016	Lainez	Bermúdez	Jeiso José	Liceo Laboratorio de Liberia	68.73	No Admitido	Contabilidad y Auditoría
+2016	Solano	Salas	José Pablo	Unidad Pedagógica San Diego	64.79	No Admitido	Contabilidad y Auditoría
+2016	Cordero	Aguilar	Loretzi María	Liceo de San Antonio	63.88	No Admitido	Contabilidad y Auditoría
+2016	Agüero	Mora	Mayrón Alexander	Liceo de Costa Rica	77.18	Admitido	Contabilidad y Finanzas
+2016	Acosta	Mora	Jerson Daniel	Liceo Nuevo de San Diego	76.98	Admitido	Contabilidad y Finanzas
+2016	Mora	Calvo	Kervin Andrey	Liceo Nuevo de San Diego	76.49	Admitido	Contabilidad y Finanzas
+2016	García 	Hernández	Allison Geanina	Liceo Nuevo de San Diego	76.39	Admitido	Contabilidad y Finanzas
+2016	Sánchez	Arley	Yostin	Liceo de Atenas 	75.85	Admitido	Contabilidad y Finanzas
+2016	Chaves	Ramírez	Ariana María	Liceo Experimental Bilingüe José Figureres Ferrer	75.52	Admitido	Contabilidad y Finanzas
+2016	Castillo	Hernández	Jennifer José	I. E. G. B. República de Panamá	74.75	Admitido	Contabilidad y Finanzas
+2016	Araya	García	Marbell Priscilla	Colegio Ing. Alejandro Quesada Ramírez	72.94	Admitido	Contabilidad y Finanzas
+2016	Mendoza	Valenciano	Tiffany Daniela	Liceo Nuevo de San Diego	71.05	Admitido	Contabilidad y Finanzas
+2016	Delgado	Arias	Ashley Mariana	Liceo de Calle Fallas	70.76	Admitido	Contabilidad y Finanzas
+2016	Mora	Fonseca	Isacc Gerardo	Sistema Educativo Whitman	70.31	Admitido	Contabilidad y Finanzas
+2016	Rojas	Barquero	Paula	Unidad Pedagógica San Diego	70.24	Admitido	Contabilidad y Finanzas
+2016	Torrez	Osejo	Karen Paola	Liceo Nuevo de San Diego	69.23	No Admitido	Contabilidad y Finanzas
+2016	Salas	Mora	Victoria	C. T. P. de Granadilla	66.94	No Admitido	Contabilidad y Finanzas
+2016	Sandí	Romero	Pedro Andrés	Unidad Pedagógica San Diego	66.13	No Admitido	Contabilidad y Finanzas
+2016	Mora	Álvarez	María Catalina	Liceo Nuevo de San Diego	60.11	No Admitido	Contabilidad y Finanzas
+2016	Flores	Membreño	Dina Sugey	Unidad Pedagógica San Diego	54.48	No Admitido	Contabilidad y Finanzas
+2016	Seas	Salas	Elida	C. T. P. de Granadilla	53.78	No Admitido	Contabilidad y Finanzas
+2016	Aparicio	Cordero	William Norberto	Liceo Rodrigo Facio Brenes	72.50	Admitido	Dibujo Técnico
+2016	Vargas	Serrano	Esteban	Unidad Pedagógica San Diego	70.62	Admitido	Dibujo Técnico
+2016	Soto	Barquero	Judith	Liceo San Antonio	70.57	Admitido	Dibujo Técnico
+2016	Alí	Santamaría	Kevin Eduardo	Unidad Pedagógica San Diego	68.83	No Admitido	Dibujo Técnico
+2016	Mora	Fonseca	Isacc Gerardo	Sistema Educativo Whitman	66.31	No Admitido	Dibujo Técnico
+2016	Morales	Uriarte	Walter Josué	Liceo Nuevo de San Diego	62.00	No Admitido	Dibujo Técnico
+2016	Martínez	Orozco	Estherling	Unidad Pedagógica San Diego	60.79	No Admitido	Dibujo Técnico
+2016	Trujillo	Medina	Anthony Jafar	Unidad Pedagógica San Diego	31.97	No Admitido	Dibujo Técnico
+2016	Umaña	Castillo	Joshtin	Unidad Pedagógica de San Diego	80.30	Admitido	Ejecutivo para Centros de Servicios
+2016	Garro	Salazar	Angie Verónica	Liceo Nuevo de San Diego	71.56	Admitido	Ejecutivo para Centros de Servicios
+2016	Álvarez	Sánchez	Mariel de los Angeles	Unidad Pedagógica de San Diego	68.54	No Admitido	Ejecutivo para Centros de Servicios
+2016	Barboza	Rodríguez	Paula 	Colegio de Cedros	65.59	No Admitido	Ejecutivo para Centros de Servicios
+2016	Portuguez	Rodríguez	Paulo Andrés	Unidad Pedagógica de San Diego	62.51	No Admitido	Ejecutivo para Centros de Servicios
+2016	Leandro	Boza	Ericka Camila	Liceo Nuevo de San Diego	61.89	No Admitido	Ejecutivo para Centros de Servicios
+2016	Mejía	Hernández	Ivania del Rosario	Liceo Nuevo de San Diego	52.96	No Admitido	Ejecutivo para Centros de Servicios
+2016	Serrano	Gómez	Melanie	Unidad Pedagógica de San Diego	44.04	No Admitido	Ejecutivo para Centros de Servicios
+2016	Cortés	Padilla	Stephanie Adriana	Liceo josé Joaquín Vargas Calvo	37.56	No Admitido	Ejecutivo para Centros de Servicios
+2016	González	Meza	Wendy Sofía	Liceo José Joaquín Vargas Calvo	35.61	No Admitido	Ejecutivo para Centros de Servicios
+2016	Fallas	Fernández	Denilson	C. T. Máximo Quesada 	88.71	Admitido	Informática en Redes de Computadoras
+2016	Chavarría	Pérez	Manuel Alberto	Unidad Pedagógica San Diego	88.63	Admitido	Informática en Redes de Computadoras
+2016	Montoya	Coto	Kevin Renato	Unidad Pedagógica San Diego	86.02	Admitido	Informática en Redes de Computadoras
+2016	Morera	Barrantes	Ginnette Alexandra	Liceo Nuevo de San Diego	85.86	No Admitido	Informática en Redes de Computadoras
+2016	Torres	Morales	William Gabriel	Unidad Pedagógica San Diego	84.49	No Admitido	Informática en Redes de Computadoras
+2016	Alí	Santamaría	Kevin Eduardo	Unidad Pedagógica San Diego	83.78	No Admitido	Informática en Redes de Computadoras
+2016	Aguilar	Hernández	Christian Javier	Liceo José Joaquín Vargas Calvo	83.38	No Admitido	Informática en Redes de Computadoras
+2016	Hernández	Santos	David Marcelo	C. T. P. del Este	82.65	No Admitido	Informática en Redes de Computadoras
+2016	Fernández	Castro	Kelly Valerie	I. E. G. B. República de Panamá	82.58	No Admitido	Informática en Redes de Computadoras
+2016	Toruño	Valverde	Pedro Gonzalo	Liceo José Joaquín Vargas Calvo	81.95	No Admitido	Informática en Redes de Computadoras
+2016	Vargas	Serrano	Esteban	Unidad Pedagógica San Diego	80.76	No Admitido	Informática en Redes de Computadoras
+2016	Monge	Coto	Kendall	Unidad Pedagógica San Diego	80.09	No Admitido	Informática en Redes de Computadoras
+2016	Arroyo	Vargas	José Daniel	C. T. P. de Granadilla	78.36	No Admitido	Informática en Redes de Computadoras
+2016	Azofeifa	Calvo	Natalia Paola	Unidad Pedagógica San Diego	78.28	No Admitido	Informática en Redes de Computadoras
+2016	Romero	Alvarado	Valerie	Unidad Pedagógica San Diego	77.79	No Admitido	Informática en Redes de Computadoras
+2016	González	Meza	Gerald Antonio	Liceo José Joaquín Vargas Calvo	74.11	No Admitido	Informática en Redes de Computadoras
+2016	Morales	Paniagua	Guillermo Aurelio	Liceo Rodrigo Facio Brenes	34.57	No Admitido	Informática en Redes de Computadoras
+2016	Sánchez	Zúñiga	Jarod Josué	Colegio Sagrado Corazón de Jesús	73.44	Admitido	Informática en Soporte Técnico
+2016	Madriz	Rojas	Jason	C. T. P. de Granadilla	71.50	Admitido	Informática en Soporte Técnico
+2016	Calvo	Alcázar	Elian Fabián	Colegio Ing. Alejandro Quesada Ramírez	69.21	Admitido	Informática en Soporte Técnico
+2016	Barrios	Ortiz	Stephanie Elizabeth	C. T. P. de Granadilla	67.94	Admitido	Informática en Soporte Técnico
+2016	Andrade	Hernández	Steven Alfredo 	C. T. P. de Granadilla	65.09	Admitido	Informática en Soporte Técnico
+2016	Navarro	Montenegro	Víctor	Unidad Pedagógica San Diego	64.80	No Admitido	Informática en Soporte Técnico
+2016	Álvarez	Mayorga	Josué	Centro Educativo Saint Josselin	63.58	No Admitido	Informática en Soporte Técnico
+2016	Vargas	Leiva	Erick Mauricio	Colegio de San Luis Gonzaga	62.58	No Admitido	Informática en Soporte Técnico
+2016	Aparicio	Cordero	William Norberto	Liceo Rodrigo Facio Brenes	61.80	No Admitido	Informática en Soporte Técnico
+2016	Sequeira	Solano	Robin	Liceo Nuevo de San Diego	59.52	No Admitido	Informática en Soporte Técnico
+2016	Salinas	Silva	Kalvin Stiven	Unidad Pedagógica San Diego	57.74	No Admitido	Informática en Soporte Técnico
+2016	Cerdas	Pérez	Oswald	Liceo José Joaquín Vargas Calvo	57.39	No Admitido	Informática en Soporte Técnico
+2016	López	Molina	Saúl	Liceo Nuevo de San Diego	51.49	No Admitido	Informática en Soporte Técnico
+2016	Obando	Cavallini	Stephanie	Unidad Pedagógica San Diego	46.49	No Admitido	Informática en Soporte Técnico
+2016	Cruz	Meng	Manuel Gerardo	Colegio Whitman	37.29	No Admitido	Informática en Soporte Técnico
+2016	Trujillo	Medina	Anthony Jafar	Unidad Pedagógica San Diego	31.97	No Admitido	Informática en Soporte Técnico
+2016	Mora	Vargas	Abigail	Colegio Francisca Carrasco Jiménez	80.14	Admitido	Secretariado Ejecutivo
+2016	Ramírez	Sanabria	Angie Elizabeth	Colegio de San Luis Gonzaga	79.21	Admitido	Secretariado Ejecutivo
+2016	Segura	Calderón	Amanda	Unidad Pedagógica de San Diego	79.10	Admitido	Secretariado Ejecutivo
+2016	Peña	Sequeira	Kimberly Dayana	C. T. P. Granadilla	77.76	Admitido	Secretariado Ejecutivo
+2016	Quesada	Salazar	Nikole de los Angeles	C. T. P. Granadilla	76.16	Admitido	Secretariado Ejecutivo
+2016	Artavia	Ramírez	María Laura	Colegio Superior de Señoritas	75.79	Admitido	Secretariado Ejecutivo
+2016	Soto	Barquero	Judith	Liceo San Antonio	75.57	Admitido	Secretariado Ejecutivo
+2016	Padilla	Vargas	Jeimy	Unidad Pedagógica de San Diego	74.71	Admitido	Secretariado Ejecutivo
+2016	Narváez	Leiva	Kimberly Tamar	Liceo Nuevo de San Diego	73.56	Admitido	Secretariado Ejecutivo
+2016	Flores	Chavarría	Pamela de Guadalupe	Unidad Pedagógica de San Diego	72.16	Admitido	Secretariado Ejecutivo
+2016	Espinoza	Solano	Fiorella	Liceo Nuevo de San Diego	70.41	Admitido	Secretariado Ejecutivo
+2016	Luna	Cienfuegos	Martha Irene	Liceo Nuevo de San Diego	70.16	Admitido	Secretariado Ejecutivo
+2016	Chavarría	Muñoz	Lisbeth	Unidad Pedagógica de San Diego	69.60	No Admitido	Secretariado Ejecutivo
+2016	Ulloa	Alvarenga	Ericka Yuliana	Unidad Pedagógica de San Diego	69.48	No Admitido	Secretariado Ejecutivo
+2016	Cortés	Martínez	Lizbeth Paola	Liceo Nuevo de San Diego	68.54	No Admitido	Secretariado Ejecutivo
+2016	Díaz	Córdoba	Karina Alejandra	C. T. P. Granadilla	67.50	No Admitido	Secretariado Ejecutivo
+2016	Matamoros	Orozco	Nicole Valeria	Liceo Nuevo de San Diego	67.15	No Admitido	Secretariado Ejecutivo
+2016	Morales	Mora	Alexa María	Liceo Nuevo de San Diego	66.86	No Admitido	Secretariado Ejecutivo
+2016	Lucas	Rivas	María José	Liceo Nuevo de San Diego	64.63	No Admitido	Secretariado Ejecutivo
+2016	Alcazar	Campos	Camil de los Angeles	Unidad Pedagógica de San Diego	64.61	No Admitido	Secretariado Ejecutivo
+2016	Miranda	Salguera	Seily Guadalupe	I. E. G. B. República de Panamá	63.43	No Admitido	Secretariado Ejecutivo
+2016	Linares	Canales	Sandra Lizeth	Liceo San Antonio	60.21	No Admitido	Secretariado Ejecutivo
+2016	Fonseca	Garita	César Armando	C. T. P. Granadilla	23.61	No Admitido	Secretariado Ejecutivo
+2017	Robleto	López	Rapcela Karina	Liceo San Diego	71.63	No Admitido	Contabilidad y Auditoría
+2017	Torres	Fallas	Bianka Edith	Colegio de Cedros	70.70	No Admitido	Contabilidad y Auditoría
+2017	Suárez	Hurtado	Ashley Nohemi	Saint Benedict High School	70.33	No Admitido	Contabilidad y Auditoría
+2017	Jiménez	Amador	Kimberly Stacy	Unidad Pedagógica de San Diego	70.27	No Admitido	Contabilidad y Auditoría
+2017	Conejo	Valverde	Jesús	C. T. P. de Granadilla	69.31	No Admitido	Contabilidad y Auditoría
+2017	Acuña	Sánchez	Kevin Alfonso	Unidad Pedagógica de San Diego	68.98	No Admitido	Contabilidad y Auditoría
+2017	Arguedas	Fallas	Gary André	Colegio Ing. Alejandro Quesada Ramírez	68.48	No Admitido	Contabilidad y Auditoría
+2017	Masís	Calderón	Keren	Colegio Ing. Alejandro Quesada Ramírez	68.33	No Admitido	Contabilidad y Auditoría
+2017	Morales	Herrera	Lisbeth María	Colegio de Cedros	67.76	No Admitido	Contabilidad y Auditoría
+2017	Valderramos	Alvarado	Yarling Ariana	Unidad Pedagógica de San Diego	66.34	No Admitido	Contabilidad y Auditoría
+2017	Bravo	Pereira	Adriel	C. T. P. de Granadilla	63.86	No Admitido	Contabilidad y Auditoría
+2017	Pérez	Cortés	Indira Valeria	Liceo San Diego	62.61	No Admitido	Contabilidad y Auditoría
+2017	Abarca	Rodríguez	Naydelín de Jesús	Colegio Ing. Alejandro Quesada Ramírez	61.57	No Admitido	Contabilidad y Auditoría
+2017	Gómez	Hernández	Zaira	C. T. P. de Granadilla	46.70	No Admitido	Contabilidad y Auditoría
+2017	Rodríguez	Gómez	Ana Lucía	Liceo de Curridabat	86.55	Admitido	Ejecutivo para Centros de Servicios
+2017	Álvarez	Carmona	Kerlyn	Colegio de Cedros	84.41	Admitido	Ejecutivo para Centros de Servicios
+2017	Torres	Morales	Maydere	C. T. P. de Granadilla	82.40	Admitido	Ejecutivo para Centros de Servicios
+2017	Báez	Hernández	Abraham	Unidad Pedagógica San Diego	77.75	Admitido	Ejecutivo para Centros de Servicios
+2017	Díaz	Juárez	Itany	Liceo Experimental Bilingüe José Figueres	77.66	Admitido	Ejecutivo para Centros de Servicios
+2017	Alvarado	Gutiérrez	María Fernanda	Liceo Rodrigo Facio Brenes	71.07	Admitido	Ejecutivo para Centros de Servicios
+2017	Fernández	Badilla	Abigail	Colegio Ing. Alejandro Quesada Ramírez	70.08	Admitido	Ejecutivo para Centros de Servicios
+2017	Mora	Castrillo	Kevin	Colegio Ing. Alejandro Quesada Ramírez	64.23	No Admitido	Ejecutivo para Centros de Servicios
+2017	Marín	Vargas	Geraldy	C. T. P. de Granadilla	61.79	No Admitido	Ejecutivo para Centros de Servicios
+2017	Vargas	Alache	Alonso	Unidad Pedagógica San Diego	61.15	No Admitido	Ejecutivo para Centros de Servicios
+2017	Pacheco	Carmona	Nicole Sofía	C. T. P. de Granadilla	55.87	No Admitido	Ejecutivo para Centros de Servicios
+2017	Martínez	Solano	Diego Andrés	Unidad Pedagógica San Diego	54.13	No Admitido	Ejecutivo para Centros de Servicios
+2017	Romero	Alvarado	Brithany	Unidad Pedagógica San Diego	51.69	No Admitido	Ejecutivo para Centros de Servicios
+2017	Barrientos	Chavarría	Sofía	Liceo San Nicolás de Tolentino	51.67	No Admitido	Ejecutivo para Centros de Servicios
+2017	Rivera	Guzmán	Keilor Adrián	Colegio Ing. Alejandro Quesada Ramírez	46.07	No Admitido	Ejecutivo para Centros de Servicios
+2017	Calderón	Silva	Noé	Unidad Pedagógica San Diego	42.43	No Admitido	Ejecutivo para Centros de Servicios
+2017	Bermúdez	Obando	Luis Diego	Liceo José Joaquín Vargas Calvo	80.67	No Admitido	Contabilidad
+2017	Cedeño	Trigueros	María Fernanda	Liceo Nuevo de San Diego	77.07	No Admitido	Contabilidad
+2017	Cerdas	Navarro	Fabián	Liceo Anastasio Alfaro	75.34	No Admitido	Contabilidad
+2017	Fernández	Monge	Melany Rosmery	C. T. P. de Granadilla	72.44	No Admitido	Contabilidad
+2017	Gutiérrez	Guzmán	Alexa	Colegio Ing. Alejandro Ramírez Quesada	72.20	No Admitido	Contabilidad
+2017	Montoya	Chavarría	Josué David	Colegio de San Luis Gonzaga	71.05	No Admitido	Contabilidad
+2017	Rodríguez	Segura	Nicole Andrea	Centro Educativo Saint Josselin Day School and College	70.26	No Admitido	Contabilidad
+2017	Sánchez	Calderón	Andrés	Unidad Pedagógica San Diego	69.87	No Admitido	Contabilidad
+2017	Vargas	Bonilla	Esther Judith	Colegio Ing. Alejandro Ramírez Quesada	67.71	No Admitido	Contabilidad
+2017	Vega	Calderón	Erney Slander	C. T. P. de Granadilla	65.41	No Admitido	Contabilidad
+2017	Zavala	Martínez	Andrés Alejandro	Unidad Pedagógica San Diego	62.08	No Admitido	Contabilidad
+2017	Esquivel 	Aguilera	Melany	Colegio Ing. Alejandro Quesada Ramírez	77.80	No Admitido	Contabilidad y Finanzas
+2017	Angulo	Mora	Suhey Francini	Unidad Pedagógica San Diego	75.30	No Admitido	Contabilidad y Finanzas
+2017	Segura	Quirós	Rachell	Unidad Pedagógica San Diego	73.02	No Admitido	Contabilidad y Finanzas
+2017	Arley	Rivera	Valery	Liceo de San Diego	72.51	No Admitido	Contabilidad y Finanzas
+2017	García	Calderón	Melissa	Liceo de San Diego	71.50	No Admitido	Contabilidad y Finanzas
+2017	Solano	Soto	María Johanna	Unidad Pedagógica San Diego	70.46	No Admitido	Contabilidad y Finanzas
+2017	Retana	García	Nicole	Unidad Pedagógica San Diego	69.66	No Admitido	Contabilidad y Finanzas
+2017	Chacón	Martínez	Ryan David	Liceo de San Diego	69.40	No Admitido	Contabilidad y Finanzas
+2017	Flores	Ramírez	Odaly	Unidad Pedagógica San Diego	69.37	No Admitido	Contabilidad y Finanzas
+2017	Astúa	Montoya	Mariel	Unidad Pedagógica San Diego	68.53	No Admitido	Contabilidad y Finanzas
+2017	Villalobos	Valverde	Tania	Liceo Dr. Vicente Lachner Sandoval	67.57	No Admitido	Contabilidad y Finanzas
+2017	Salazar 	Buchanán	Brandon	Unidad Pedagógica San Diego	65.51	No Admitido	Contabilidad y Finanzas
+2017	Orozco	Zuñiga	Angie	Colegio Ing. Alejandro Quesada Ramírez	64.50	No Admitido	Contabilidad y Finanzas
+2017	Villareal	Arley	Fiorella Lizeth	Unidad Pedagógica San Diego	64.28	No Admitido	Contabilidad y Finanzas
+2017	Gaitán	Garay	Dennis Fabián	Colegio Ing. Alejandro Quesada Ramírez	64.16	No Admitido	Contabilidad y Finanzas
+2017	Artavia 	Carvajal	Anderson Miguel	Liceo de San Diego	63.17	No Admitido	Contabilidad y Finanzas
+2017	Ramírez	Acuña	Valeska	Unidad Pedagógica San Diego	62.78	No Admitido	Contabilidad y Finanzas
+2017	Brizuela	Esquivel	Mariana Michelle	Unidad Pedagógica San Diego	62.40	No Admitido	Contabilidad y Finanzas
+2017	Vargas	López	Gretel	C. T. P. de Granadilla	61.64	No Admitido	Contabilidad y Finanzas
+2017	Moreno	Montoya	Allison	Liceo de San Diego	61.12	No Admitido	Contabilidad y Finanzas
+2017	Ovares	Zamora	José Andrés	Unidad Pedagógica San Diego	61.04	No Admitido	Contabilidad y Finanzas
+2017	Sánchez	Aguilar	Mauro Roberto	Liceo de San Diego	59.36	No Admitido	Contabilidad y Finanzas
+2017	Vargas	Gutiérrez	Tania Daniela	Unidad Pedagógica San Diego	57.86	No Admitido	Contabilidad y Finanzas
+2017	Muñoz	Alvarez	José Pablo	Liceo de San Diego	54.86	No Admitido	Contabilidad y Finanzas
+2017	Vallecillo	Sandoval	Keily	Unidad Pedagógica San Diego	44.80	No Admitido	Contabilidad y Finanzas
+2017	Salguera	Gutiérrez	Andrés	Liceo de Curridabat	39.40	No Admitido	Contabilidad y Finanzas
+2017	Vargas	Sánchez	Keilyn	C. T. P. de Granadilla	72.58	No Admitido	Dibujo Técnico
+2017	Umaña	Linares	Carlos	IPEC	70.28	No Admitido	Dibujo Técnico
+2017	Cordero	Castillo	Bryan	Unidad Pedagógica San Diego	70.26	No Admitido	Dibujo Técnico
+2017	García	Moya	Tracy Nicolle	Unidad Pedagógica de San Diego	70.18	No Admitido	Dibujo Técnico
+2017	Valverde	Granados	Joselyn Francine	Unidad Pedagógica de San Diego	69.63	No Admitido	Dibujo Técnico
+2017	Richmond	Sibaja	Steven 	Unidad Pedagógica de San Diego	64.96	No Admitido	Dibujo Técnico
+2017	Vargas	Cordero	Gary Jesús	Unidad Pedagógica de San Diego	62.98	No Admitido	Dibujo Técnico
+2017	Azofeifa	Calvo	Natalia Paola	Unidad Pedagógica de San Diego	56.46	No Admitido	Dibujo Técnico
+2017	Abarca	Bermúdez	Keysy	Unidad Pedagógica de San Diego	54.60	No Admitido	Dibujo Técnico
+2017	Chavarría	Aguilar	Chiristopher	Saint Josselin Day School	53.20	No Admitido	Dibujo Técnico
+2017	Prado	Ordoñez	Judith	Unidad Pedagógica San Diego	52.58	No Admitido	Dibujo Técnico
+2017	Drakes	Araya	Sofía	Unidad Pedagógica de San Diego	25.42	No Admitido	Dibujo Técnico
+2017	Arce	Umaña	Cesar Ignacio	Unidad Pedagógica San Diego	81.51	No Admitido	Informática en Redes de Computadoras
+2017	Solano	Hernández	Sirleny Fabiola	Liceo de San Diego	79.05	No Admitido	Informática en Redes de Computadoras
+2017	Arce	Flores	Katherine	Unidad Pedagógica San Diego	78.68	No Admitido	Informática en Redes de Computadoras
+2017	Montero	Campos	José Ricardo	Liceo San Antonio	77.48	No Admitido	Informática en Redes de Computadoras
+2017	Sánchez	Lima	Fernando José	Unidad Pedagógica San Diego	73.76	No Admitido	Informática en Redes de Computadoras
+2017	Villalta	Jiménez	Josué	Unidad Pedagógica San Diego	73.53	No Admitido	Informática en Redes de Computadoras
+2017	Álvarez	Mairena	Reichel Yaksiry	Unidad Pedagógica San Diego	72.38	No Admitido	Informática en Redes de Computadoras
+2017	Ramírez	Ugalde	Kimberly	Unidad Pedagógica San Diego	69.62	No Admitido	Informática en Redes de Computadoras
+2017	Borbón	Corrales	Sebastián	C. T. P. de Granadilla	68.83	No Admitido	Informática en Redes de Computadoras
+2017	Arce	Soto	Daniel	Unidad Pedagógica San Diego	62.61	No Admitido	Informática en Redes de Computadoras
+2017	Vargas	Valverde	David	Liceo Nuevo de San Diego	88.14	No Admitido	Informática en Soporte Técnico
+2017	Fernández	Cordero	Bryan	Colegio Ing. Alejandro Quesada Ramírez	83.13	No Admitido	Informática en Soporte Técnico
+2017	Elizondo	Mendoza	Rayden David	Unidad Pedagógica San Diego	78.46	No Admitido	Informática en Soporte Técnico
+2017	Lizano	Cortés	Gabriel 	Liceo José Joaquin Vargas Calvo	70.47	No Admitido	Informática en Soporte Técnico
+2017	Brenes	Carranza	Christopher	Liceo de Curridabat	68.04	No Admitido	Informática en Soporte Técnico
+2017	Ramírez	Mayorga	Jostin	Angel High School	68.00	No Admitido	Informática en Soporte Técnico
+2017	Ortíz	Valladares	Luis Gustavo	Unidad Pedagógica San Diego	64.50	No Admitido	Informática en Soporte Técnico
+2017	Salas	Aguilar	Diego	Liceo de San Diego	63.81	No Admitido	Informática en Soporte Técnico
+2017	Agüero	Ferlini	Ismael Daniel	Unidad Pedagógica San Diego	60.70	No Admitido	Informática en Soporte Técnico
+2017	Masís	Rivera	Nayib Antonio	Liceo de San Diego	59.96	No Admitido	Informática en Soporte Técnico
+2017	Bonilla	Vindas	Dylan Ricardo	Colegio Sagrado Corazón de Jesús	58.93	No Admitido	Informática en Soporte Técnico
+2017	Alvarado	Calderón	Angie	Unidad Pedagógica San Diego	57.56	No Admitido	Informática en Soporte Técnico
+2017	Obando	Cavallini	Stephanie	Unidad Pedagógica San Diego	55.84	No Admitido	Informática en Soporte Técnico
+2017	Camacho	Martínez	Daniel Bernardo	Unidad Pedagógica San Diego	54.84	No Admitido	Informática en Soporte Técnico
+2017	Pastrán	Borgen	Adonis Manuel	Liceo de San Diego	31.30	No Admitido	Informática en Soporte Técnico
+2017	Pastrán		Rosner José	Liceo de San Diego	30.06	No Admitido	Informática en Soporte Técnico
+2017	Nicot	Gómez	Sebastián	Unidad Pedagógica San Diego	14.01	No Admitido	Mecánica General
+2017	Martínez	Olmos	Kristel Paola	Unidad Pedagógica San Diego	75.38	No Admitido	Secretariado Ejecutivo
+2017	Hernández	Serrano	Wendy Nayely	Colegio Ing. Alejandro Quesada Ramírez	74.94	No Admitido	Secretariado Ejecutivo
+2017	Arce	Soto	Fiorella	Unidad Pedagógica San Diego	73.01	No Admitido	Secretariado Ejecutivo
+2017	Villalobos	Vragas	Michelle Scarlet	Unidad Pedagógica San Diego	72.54	No Admitido	Secretariado Ejecutivo
+2017	Campos	Carballo	Alison	Colegio Ing. Alejandro Quesada Ramírez	72.04	No Admitido	Secretariado Ejecutivo
+2017	Zúñiga	Loaiza	Nicole	Colegio de San Luis Gonzaga	71.64	No Admitido	Secretariado Ejecutivo
+2017	Espinal	Garro	Allison Michelle	Unidad Pedagógica San Diego	71.63	No Admitido	Secretariado Ejecutivo
+2017	Jiménez	Flores	Saray Daniela	Unidad Pedagógica San Diego	70.10	No Admitido	Secretariado Ejecutivo
+2017	Granados	Hernández	Jafeth Gustavo	Liceo José Joaquín Vargas Calvo	69.50	No Admitido	Secretariado Ejecutivo
+2017	Grijalba	Hernández	Kristal	Liceo de San Diego	68.98	No Admitido	Secretariado Ejecutivo
+2017	Baltodano	Vega	María Fernanda	Liceo de San Diego	68.56	No Admitido	Secretariado Ejecutivo
+2017	Gutiérrez	Guzmán	Hilary Melissa 	Colegio Ing. Alejandro Quesada Ramírez	67.20	No Admitido	Secretariado Ejecutivo
+2017	Ramírez	Álvarez	Marjorie Pamela	Unidad Pedagógica San Diego	66.77	No Admitido	Secretariado Ejecutivo
+2017	Bermúdez	Soto	Jimena de Jesús	Unidad Pedagógica San Diego	66.04	No Admitido	Secretariado Ejecutivo
+2017	Vásquez	Medina	María Daniela	Unidad Pedagógica San Diego	65.58	No Admitido	Secretariado Ejecutivo
+2017	Romero	González	Stephanie Sofía	Liceo de San Diego	65.40	No Admitido	Secretariado Ejecutivo
+2017	Abarca	Sanabria	Rebeca Lucía	C. T. P. de Granadilla	63.91	No Admitido	Secretariado Ejecutivo
+2017	Muñoz	Villarreal	Quiwmara	Liceo de San Diego	63.56	No Admitido	Secretariado Ejecutivo
+2017	Arguello	Alvarez	Deimely Sayeli	Unidad Pedagógica San Diego	62.27	No Admitido	Secretariado Ejecutivo
+2017	Pérez	Fonseca	Tatiana	Unidad Pedagógica San Diego	61.03	No Admitido	Secretariado Ejecutivo
+2017	Granados	Méndez	Nikol	Colegio Ing. Alejandro Quesada Ramírez	24.32	No Admitido	Secretariado Ejecutivo
+2018	Guzmán 	Fallas	Kennya Vanessa	Sistema Educativo Bilingüe Virgen del Pilar	81.27	Admitido	Accounting
+2018	Torres	Chaves	Eduardo	Sistema Educativo Bilingüe Virgen del Pilar	76.84	Admitido	Accounting
+2018	Berrocal	Porras	Nayeli Patricia	Colegio del Sagrado Corazón de Jesús	75.15	Admitido	Accounting
+2018	Camareno	Quesada	Luis Diego	Colegio Ing. Alejandro Quesada Ramírez	64.37	No Admitido	Accounting
+2018	Jiménez	Mora	Fabiaba	Colegio de San Luis Gonzaga	53.45	No Admitido	Accounting
+2018	Martínez	Ramírez	Kimberly	Unidad Pedagógica de San Diego	53.00	No Admitido	Accounting
+2018	Ulloa 	Sotela	Diana	Unidad Pedagógica de San Diego	52.09	No Admitido	Accounting
+2018	Calderón	Venegas	Fernando	Liceo José Joaquín Vargas Calvo	51.15	No Admitido	Accounting
+2018	Sánchez	Hernández	Jeycol Daniel	Unidad Pedagógica de San Diego	50.49	No Admitido	Accounting
+2018	Lóaiciga	Quirós	Kevin Antonio	Colegio de San Luis Gonzaga	26.42	No Admitido	Accounting
+2018	Odio	Mora	Tamara	Sistema Educativo Whitman	0.00	No Admitido	Accounting
+2018	Brenes	Pérez	Juan Carlos	Colegio Ing. Alejandro Quesada Ramírez	79.68	Admitido	Contabilidad y Auditoría
+2018	Leiva	Aguilar	Jairon David	Unidad Pedagógica de San Diego	74.70	Admitido	Contabilidad y Auditoría
+2018	López	López	Kenneth Alejandro	Liceo de San Diego	72.62	Admitido	Contabilidad y Auditoría
+2018	Arrieta	Aguilar	Francini Dayana	Liceo de San Diego	69.60	No Admitido	Contabilidad y Auditoría
+2018	Ortega 	Medrano	Madelline Nicole	C. T. P. Fernando Volio Jiménez	66.10	No Admitido	Contabilidad y Auditoría
+2018	Pichardo	Paz	Linda Stephanie	Liceo José Joaquín Vargas Calvo	62.70	No Admitido	Contabilidad y Auditoría
+2018	Solís	León	Danielle Nicole	Sistema Educativo Bilingüe Virgen del Pilar	81.71	Admitido	Ejecutivo para Centros de Servicios
+2018	Esquivel	Arteaga 	Sofía	Colegio Madre del Divino Pastor	79.73	Admitido	Ejecutivo para Centros de Servicios
+2018	Cervantes	Seas	Melissa	Sistema Educativo Bilingüe Virgen del Pilar	76.97	Admitido	Ejecutivo para Centros de Servicios
+2018	Álvarez	Fernández	Josué Daniel	Unidad Pedagógica San Diego	75.58	Admitido	Ejecutivo para Centros de Servicios
+2018	Vargas	Segura	Nancy	Colegio Ing. Alejandro Quesada Ramírez	75.30	No Admitido	Ejecutivo para Centros de Servicios
+2018	Herrera	Gómez	Irina Lucía 	Unidad Pedagógica San Diego	71.02	No Admitido	Ejecutivo para Centros de Servicios
+2018	Ramírez	Toruño	Luz Aryeri	Liceo José Joaquín Vargas Calvo	67.28	No Admitido	Ejecutivo para Centros de Servicios
+2018	Chacón	Bermúdez	María Azucena	Unidad Pedagógica San Diego	52.85	No Admitido	Ejecutivo para Centros de Servicios
+2018	Rojas	Cubero	Jacob Mauricio	Unidad Pedagógica San Diego	51.93	No Admitido	Ejecutivo para Centros de Servicios
+2018	Gamez	Orozco	Jahosca Jarixza	Colegio Ing. Alejandro Quesada Ramírez	49.65	No Admitido	Ejecutivo para Centros de Servicios
+2018	Escobar	Salgado	Kennia Patricia	Liceo Anastasio Alfaro	48.15	No Admitido	Ejecutivo para Centros de Servicios
+2018	Narváez	Leiva	Carlos Mauricio	C. T. P. Máximo Quesada 	47.28	No Admitido	Ejecutivo para Centros de Servicios
+2018	Rodríguez	Valverde	Fiorella Francini	Unidad Pedagógica San Diego	33.43	No Admitido	Ejecutivo para Centros de Servicios
+2018	Puerto	Umaña	Hellen Guadalupe	Liceo Nuevo de San Diego	29.42	No Admitido	Ejecutivo para Centros de Servicios
+2018	Artavia	Sandoval	Kendall Gustavo	Unidad Pedagógica de San Diego	74.38	Admitido	Contabilidad
+2018	González 	Arrieta	Josúe Daniel	Unidad Pedagógica de San Diego	69.02	Admitido	Contabilidad
+2018	Zúñiga	Betanco	Hazel Auxiliadora	Colegio Ing. Alejandro Quesada Ramírez	67.47	Admitido	Contabilidad
+2018	Aguirre	Hernández	Kembly Mariana	Colegio Ing. Alejandro Quesada Ramírez	66.38	Admitido	Contabilidad
+2018	Gutiérrez 	Quirós 	Nicolle Andrea	Liceo Dr. Vicente Lachner Sandoval	65.17	No Admitido	Contabilidad
+2018	Guzmán	Córdoba	Dilan Alexander	Liceo José Joaquín Vargas Calvo	64.65	No Admitido	Contabilidad
+2018	Zúñiga	Calvo	Alison Pamela	Colegio Ing. Alejandro Quesada Ramírez	62.08	No Admitido	Contabilidad
+2018	Masís	Aguirre	Sebastián 	Liceo José Joaquín Vargas Calvo	57.62	No Admitido	Contabilidad
+2018	Luna	Cienfuegos	Gabriel Antonio	Liceo Nuevo de San Diego	80.05	Admitido	Contabilidad y Finanzas
+2018	Barquero	Obando	Sharon Nicole	Liceo Nuevo de San Diego	78.13	Admitido	Contabilidad y Finanzas
+2018	Rizo	Aguirre	Ryan	Liceo Nuevo de San Diego	77.10	Admitido	Contabilidad y Finanzas
+2018	Jarquín	Urbina	Sheyling Lorena	Colegio San Luis Gonzaga	73.18	Admitido	Contabilidad y Finanzas
+2018	Montoya	Rojas	Erick Alejandro	Liceo Nuevo de San Diego	72.93	Admitido	Contabilidad y Finanzas
+2018	Arias	Araya	Norguin Esteban	Unidad Pedagógica de San Diego	72.08	Admitido	Contabilidad y Finanzas
+2018	Orozco	Moreno	Danys Josué	Unidad Pedagógica de San Diego	71.90	Admitido	Contabilidad y Finanzas
+2018	Quesada	Araya	Hilary Paola	Liceo Nuevo de San Diego	70.92	Admitido	Contabilidad y Finanzas
+2018	Rivera	Oses	Allison	Liceo Nuevo de San Diego	70.40	Admitido	Contabilidad y Finanzas
+2018	Calderón	Silva	Wendy Anayeli	Unidad Pedagógica de San Diego	70.03	Admitido	Contabilidad y Finanzas
+2018	Condega	Vargas	Ruth Morelia	Colegio Ing. Alejandro Quesada Ramírez	69.98	No Admitido	Contabilidad y Finanzas
+2018	Martínez	García	María Fernanda	Colegio San Luis Gonzaga	69.57	No Admitido	Contabilidad y Finanzas
+2018	Kepfer	Fonseca	Rubén Alonso	Unidad Pedagógica de San Diego	69.53	No Admitido	Contabilidad y Finanzas
+2018	Azofeifa	Molina	Byron Mauricio	Liceo Nuevo de San Diego	69.05	No Admitido	Contabilidad y Finanzas
+2018	Carvajal	Gutiérrez	Dilan Alonso	Liceo Nuevo de San Diego	68.20	No Admitido	Contabilidad y Finanzas
+2018	Montoya	Cordero 	Darla Valezka	Unidad Pedagógica de San Diego	67.80	No Admitido	Contabilidad y Finanzas
+2018	Moya	Quirós	Camila Marcela	Liceo José Joaquín Vargas Calvo	67.63	No Admitido	Contabilidad y Finanzas
+2018	Jiménez	Carvajal	Jimena Franciny	Unidad Pedagógica de San Diego	65.95	No Admitido	Contabilidad y Finanzas
+2018	Jiménez	Vargas	Melanie Fabiola	Unidad Pedagógica de San Diego	64.92	No Admitido	Contabilidad y Finanzas
+2018	Picado	Rocha	Gustavo Jesús	Unidad Pedagógica de San Diego	64.62	No Admitido	Contabilidad y Finanzas
+2018	Mendoza	Jaen	Verónica Auxiliadora	Unidad Pedagógica de San Diego	63.40	No Admitido	Contabilidad y Finanzas
+2018	Richmond	Cubero	Jafeth Santiago	Unidad Pedagógica de San Diego	62.88	No Admitido	Contabilidad y Finanzas
+2018	Diaz	González	Valeria	Liceo José Joaquín Vargas Calvo	62.27	No Admitido	Contabilidad y Finanzas
+2018	Quesada	Pereira	Cynthia	Unidad Pedagógica de San Diego	57.92	No Admitido	Contabilidad y Finanzas
+2018	Flores	Gómez	Fátima	Colegio Ing. Alejandro Quesada Ramírez	49.98	No Admitido	Contabilidad y Finanzas
+2018	Mora	Mata	Aurora Fernanda	Liceo Nuevo de San Diego	46.72	No Admitido	Contabilidad y Finanzas
+2018	Sánchez	Castro	Mauricio Alberto	Colegio Ing. Alejandro Quesada Ramírez	71.75	Admitido	Dibujo Técnico
+2018	Chaves	Cedeño	Deiner Steven	Liceo Nuevo de San Diego	70.62	Admitido	Dibujo Técnico
+2018	Morales	Herrera	Paulina Alexandra	Colegio Ing. Alejandro Quesada Ramírez	70.43	Admitido	Dibujo Técnico
+2018	Zumbado	Acosta	Vielka	Liceo Monseñor Rubén Odio Herrera	67.00	Admitido	Dibujo Técnico
+2018	Jiménez	Flores	María de los Angeles	Liceo Experimental Bilingüe José Figueres Ferrer	66.73	No Admitido	Dibujo Técnico
+2018	Sanabria	Vega	Fristan Mariano	Liceo Dr. Vicente Lachner Sandoval	66.33	No Admitido	Dibujo Técnico
+2018	Rodríguez	Ruiz	Dayana Fabiola	Liceo Nuevo de San Diego	63.52	No Admitido	Dibujo Técnico
+2018	Jiménez	Chacón	Nicolle Andrea	Liceo Occidental de Cartago	26.47	No Admitido	Dibujo Técnico
+2018	Villalobos	Martínez	Angie Nikole	Centro Educativo Saint Josselin Day School and College	87.84	Admitido	Diseño y Confección de la Moda
+2018	Durán 	Ureña 	Valeria	Unidad Pedagógica de San Diego	84.95	Admitido	Diseño y Confección de la Moda
+2018	Barahona	Araya	Keilyn Nazareth	Colegio Seráfico San Francisco	84.49	Admitido	Diseño y Confección de la Moda
+2018	Vargas	Porras	Alberto	Unidad Pedagógica de San Diego	83.20	No Admitido	Diseño y Confección de la Moda
+2018	Vargas	Mejías	Catalina	Unidad Pedagógica de San Diego	79.53	No Admitido	Diseño y Confección de la Moda
+2018	Sandí	Solano	Francel Michelle	Liceo Nuevo de San Diego	78.73	No Admitido	Diseño y Confección de la Moda
+2018	Linares	Vargas	Paulina de los Angeles	Unidad Pedagógica de San Diego	69.60	No Admitido	Diseño y Confección de la Moda
+2018	Vega	Gutiérrez	Jessica Emelina	Colegio Ing. Alejandro Quesada Ramírez	23.52	No Admitido	Diseño y Confección de la Moda
+2018	Vega	Mendieta	Ángel Alberto	Unidad Pedagógica de San Diego	82.27	Admitido	Informática en Redes de Computadoras
+2018	Ordóñez	Jiménez	Samuel	Unidad Pedagógica de San Diego	80.88	Admitido	Informática en Redes de Computadoras
+2018	Bonilla 	Retana	José Daniel	Liceo Nuevo de San Diego	79.30	Admitido	Informática en Redes de Computadoras
+2018	Pérez	Chanto	Ana Virginia	Colegio Ing. Alejandro Quesada Ramírez	78.97	Admitido	Informática en Redes de Computadoras
+2018	Ulate	Campos	Daniel Fernando	Liceo Nuevo de San Diego	77.58	Admitido	Informática en Redes de Computadoras
+2018	Medina	López	Jeremy Jesús	Liceo José Joaquín Vargas Calvo 	77.20	No Admitido	Informática en Redes de Computadoras
+2018	Obando	Hernández	Joseph Vladimir	Liceo de Santo Domingo	76.75	No Admitido	Informática en Redes de Computadoras
+2018	Quesada	Quesada	Andrés Josué	Unidad Pedagógica de San Diego	76.75	No Admitido	Informática en Redes de Computadoras
+2018	Marín	Morales 	Richar Esteven	C. T. P. de Granadilla 	76.33	No Admitido	Informática en Redes de Computadoras
+2018	Bermúdez	Granados	Derek Andrés	Colegio Ing. Alejandro Quesada Ramírez	76.32	No Admitido	Informática en Redes de Computadoras
+2018	Chavarría	Rojas 	María Fernanda 	Unidad Pedagógica de San Diego	75.43	No Admitido	Informática en Redes de Computadoras
+2018	Argueta	Hernández	Eder Jonaiker	Colegio Ing. Alejandro Quesada Ramírez	74.38	No Admitido	Informática en Redes de Computadoras
+2018	Araya	Brenes	Brandon José	Unidad Pedagógica de San Diego	19.73	No Admitido	Informática en Redes de Computadoras
+2018	Calvo	Alcázar	Yeilin Jimena	Colegio Ing. Alejandro Quesada Ramírez	84.75	Admitido	Informática en Soporte Técnico
+2018	Navarro	Lindo	Valery Francini	Unidad Pedagógica de San Diego	83.97	Admitido	Informática en Soporte Técnico
+2018	Cascante	Vives	Kaylor	Unidad Pedagógica de San Diego	80.07	No Admitido	Informática en Soporte Técnico
+2018	Martínez	Aguirre	Lázaro Emanuel	Liceo Nuevo de San Diego	76.20	No Admitido	Informática en Soporte Técnico
+2018	Mora	Brenes	Eddy Martín	Colegio Ing. Alejandro Quesada Ramírez	74.93	No Admitido	Informática en Soporte Técnico
+2018	Méndez	Villatoro	Luis Enrique	Liceo Napoleón Quesada Salazar	73.40	Admitido	Mecánica General
+2018	Rocha	Rojas	Christian	Unidad Pedagógica de San Diego	72.68	Admitido	Mecánica General
+2018	Gamboa	Orozco	Joseph	Unidad Pedagógica de San Diego	69.22	No Admitido	Mecánica General
+2018	Gutiérrez	Sáenz	María José	Liceo Elías Leiva Quirós	31.60	No Admitido	Mecánica General
+2018	Navarro 	Jiménez	Jimena Patricia	Colegio de San Luis Gonzaga	77.29	Admitido	Secretariado Ejecutivo
+2018	Rojas	Blanco	Yuliana	Colegio Ing. Alejandro Quesada Ramírez	76.60	Admitido	Secretariado Ejecutivo
+2018	Hernández	Sánchez	Allison Pamela	Colegio Ing. Alejandro Quesada Ramírez	75.93	Admitido	Secretariado Ejecutivo
+2018	Orozco	Lizano	Kenndaly Tamara	Colegio Ing. Alejandro Quesada Ramírez	72.28	Admitido	Secretariado Ejecutivo
+2018	García	Barquero	María Angélica	Liceo José Joaquín Vargas Calvo	71.95	Admitido	Secretariado Ejecutivo
+2018	Quirós	Montero	Nicole Arisai	Colegio Ing. Alejandro Quesada Ramírez	71.22	Admitido	Secretariado Ejecutivo
+2018	Vargas  	Calderón	Jazmín de la Trinidad	Unidad Pedagógica de San Diego	70.18	Admitido	Secretariado Ejecutivo
+2018	Calderón	Durán	Sherryl Shaloon	Colegio Ing. Alejandro Quesada Ramírez	69.07	No Admitido	Secretariado Ejecutivo
+2018	Pérez	Badilla	Melany Natasha	Liceo Nuevo de San Diego	68.98	No Admitido	Secretariado Ejecutivo
+2018	Masís 	Abarca	Brenda María	Colegio Ing. Alejandro Quesada Ramírez	64.52	No Admitido	Secretariado Ejecutivo
+2018	Cubero	Villanueva	Jefry Armando 	Unidad Pedagógica de San Diego	63.73	No Admitido	Secretariado Ejecutivo
+2018	Ulloa	Siles	Nicole Pamela	Unidad Pedagógica Barrio Nuevo	21.92	No Admitido	Secretariado Ejecutivo
+2019	Odio	Mora	Tamara	C. T. P. de Granadilla 	82.44	Admitido	Accounting
+2019	Calvo	Bogantes	Daniela Alejandra	Colegio Alejandro Quesada Ramírez	81.14	Admitido	Accounting
+2019	Porras	Sánchez	Mariam	Sistema Educativo Whitman	78.58	Admitido	Accounting
+2019	Artavia	Laj	Haiken Adriana	Unidad Pedagógica San Diego	76.66	Admitido	Accounting
+2019	Toruño	Pérez	José David	Unidad Pedagógica San Diego	66.68	No Admitido	Accounting
+2019	Ramírez	Chacón	Daniel Andrés	Colgio de San Luis Gonzaga	60.82	No Admitido	Accounting
+2019	Brenes	Murillo	Génesis Nepthis	Colegio de San Luis Gonzaga	74.32	Admitido	Contabilidad y Auditoría
+2019	Brenes	Badilla	Alexander Jesús	Colegio Alejandro Quesada Ramírez	70.41	Admitido	Contabilidad y Auditoría
+2019	Abarca	Rodríguez	Kianny Gabriela	C. T. P. de Granadilla 	61.72	No Admitido	Contabilidad y Auditoría
+2019	Sánchez	Jarquín	Naomy Natalia	Colegio Alejandro Quesada Ramírez	72.92	Admitido	Ejecutivo para Centros de Servicios
+2019	Umaña	Molina	Keyran Yulián	Colegio Alejandro Quesada Ramírez	69.56	Admitido	Ejecutivo para Centros de Servicios
+2019	Araya	Rojas	Elizabeth	Centro Educativo María Inmaculada de Limón 	68.10	No Admitido	Ejecutivo para Centros de Servicios
+2019	Jiménez	Molina	Gabriela	Colegio Alejandro Quesada Ramírez	60.68	No Admitido	Ejecutivo para Centros de Servicios
+2019	Díaz	Córdoba	Meritxell	Colegio Alejandro Quesada Ramírez	58.68	No Admitido	Ejecutivo para Centros de Servicios
+2019	Brenes	Solano	Lissette	Colegio Alejandro Quesada Ramírez	46.30	No Admitido	Ejecutivo para Centros de Servicios
+2019	Jiménez	Molina	Gabriel	Colegio Alejandro Quesada Ramírez	44.26	No Admitido	Ejecutivo para Centros de Servicios
+2019	Cedeño	Arguedas	Melany Tatiana	Liceo José Joaquín Vargas Calvo	27.68	No Admitido	Ejecutivo para Centros de Servicios
+2019	Rodríguez	Ramírez	Cristina Mercedes	Liceo de Curridabat	76.74	Admitido	Contabilidad y Finanzas
+2019	Flores	Avilez	Deybi José	Unidad Pedagógica San Diego	76.00	Admitido	Contabilidad y Finanzas
+2019	Gutiérrez	Aguirre	Gerald Adrián	Unidad Pedagógica San Diego	73.68	Admitido	Contabilidad y Finanzas
+2019	Abarca	González	William Andrés	Liceo Nuevo de San Diego	71.44	Admitido	Contabilidad y Finanzas
+2019	Peña	Vanegas	Helen Anaí	Unidad Pedagógica San Diego	69.24	No Admitido	Contabilidad y Finanzas
+2019	Aguilar	Campos	Nicolle Ariana	C. T. P. de Granadilla 	67.58	No Admitido	Contabilidad y Finanzas
+2019	Meneses	Moreno	Sergio Javier	Unidad Pedagógica San Diego	67.30	No Admitido	Contabilidad y Finanzas
+2019	Solís	Mora	María José	Unidad Pedagógica San Diego	67.20	No Admitido	Contabilidad y Finanzas
+2019	Gómez	Campos	Jennifer Daniela	Liceo de Curridabat	66.74	No Admitido	Contabilidad y Finanzas
+2019	Rojas	Páez	Alison Nayely	Colegio Alejandro Quesada Ramírez	63.20	No Admitido	Contabilidad y Finanzas
+2019	Castrillo	Aguilar	Carlos Daniel	Unidad Pedagógica San Diego	63.18	No Admitido	Contabilidad y Finanzas
+2019	Ulate	Campos	Nicole	Unidad Pedagógica San Diego	62.28	No Admitido	Contabilidad y Finanzas
+2019	Solís	Ruiz	Sharon Fiorella	Colegio Alejandro Quesada Ramírez	61.70	No Admitido	Contabilidad y Finanzas
+2019	Cubero	Villanueva	Jeison Andrés	Unidad Pedagógica San Diego	61.58	No Admitido	Contabilidad y Finanzas
+2019	Gutiérrez	Sancho	Sebastián Andrés 	Unidad Pedagógica San Diego	61.38	No Admitido	Contabilidad y Finanzas
+2019	Alemán	Pérez	Karla Vanesa	Unidad Pedagógica San Diego	59.58	No Admitido	Contabilidad y Finanzas
+2019	Vega	Coto	Daniela	Unidad Pedagógica San Diego	58.52	No Admitido	Contabilidad y Finanzas
+2019	Padilla	Quesada	Yensi	Unidad Pedagógica San Diego	57.56	No Admitido	Contabilidad y Finanzas
+2019	Castillo	González	Keitel Cristina	Liceo Nuevo de San Diego	56.82	No Admitido	Contabilidad y Finanzas
+2019	Delgado	Vaquedano	Esteffany Tatiana	Colegio Alejandro Quesada Ramírez	56.44	No Admitido	Contabilidad y Finanzas
+2019	Meneses	Ramírez	Manuel	Unidad Pedagógica San Diego	56.10	No Admitido	Contabilidad y Finanzas
+2019	Hernández	Solís	Ashley Estefanía	Liceo de Curridabat	56.00	No Admitido	Contabilidad y Finanzas
+2019	Juárez	Pulido	Jersiel Eliécer	Unidad Pedagógica San Diego	55.38	No Admitido	Contabilidad y Finanzas
+2019	Ramírez	Chavarría	Kinyen Stewart	Unidad Pedagógica San Diego	54.40	No Admitido	Contabilidad y Finanzas
+2019	Munguía	Flores	Fabiola	Unidad Pedagógica San Diego	51.60	No Admitido	Contabilidad y Finanzas
+2019	Betanco	Cruz	Eveling	Colegio Alejandro Quesada Ramírez	47.60	No Admitido	Contabilidad y Finanzas
+2019	Campos	Monge	Jimena	Colegio Alejandro Quesada Ramírez	46.05	No Admitido	Contabilidad y Finanzas
+2019	Toval	Varela	Jorge Aulberto	Liceo Nuevo de San Diego	43.60	No Admitido	Contabilidad y Finanzas
+2019	Gutiérrez	Montano	Reichel	Unidad Pedagógica San Diego	30.86	No Admitido	Contabilidad y Finanzas
+2019	Chinchilla	Medina	Jennifer Gabriela	Unidad Pedagógica San Diego	20.30	No Admitido	Contabilidad y Finanzas
+2019	García	Sevilla	Lisbeth María	Liceo José Joaquín Vargas Calvo	73.80	Admitido	Contabilidad
+2019	Salinas	Silva	Jairo Alejandro	Unidad Pedagógica San Diego	66.73	Admitido	Contabilidad
+2019	Mora	Díaz	Allan Alberto	Colegio Alejandro Quesada Ramírez	65.32	No Admitido	Contabilidad
+2019	Poveda	Acuña	Gerson Adonay	Colegio Alejandro Quesada Ramírez	63.84	No Admitido	Contabilidad
+2019	González	Chaves	Jesús Miguel	Colegio Alejandro Quesada Ramírez	63.28	No Admitido	Contabilidad
+2019	López	Ticay	Katherine Maciel	Unidad Pedagógica San Diego	58.83	No Admitido	Contabilidad
+2019	Cordero	Villalobos	Daniel	Unidad Pedagógica San Diego	58.28	No Admitido	Contabilidad
+2019	Delgadillo	Collado	Alexandra María	IEGB Andrés Bello López	51.44	No Admitido	Contabilidad
+2019	Maltez	Escoto	Ericka Charlot	Unidad Pedagógica San Diego	46.66	No Admitido	Contabilidad
+2019	Rodríguez	Rodríguez	Roy Adrián	Unidad Pedagógica San Diego	95.26	Admitido	Informática en Desarrollo de Software
+2019	Pérez	Cedeño	Kevin	Unidad Pedagógica San Diego	89.78	Admitido	Informática en Desarrollo de Software
+2019	Pereira	Ramírez	Mario Andrés	Centro Educativo Saint Josselin 	89.08	Admitido	Informática en Desarrollo de Software
+2019	Vargas	Díaz	Estiven	Colegio Alejandro Quesada Ramírez	88.56	Admitido	Informática en Desarrollo de Software
+2019	Guarín	Vindas	Christopher Danilo	Centro Educativo Saint Josselin 	87.90	Admitido	Informática en Desarrollo de Software
+2019	Gómez	Mena	Juan Pablo	Liceo Nuevo de San Diego	87.66	Admitido	Informática en Desarrollo de Software
+2019	Sanabria	Sanabria	Gabriel 	Colegio del Sagrado Corazón de Jesús	87.34	No Admitido	Informática en Desarrollo de Software
+2019	Cruz	Bermúdez	Diego	Liceo de Curridabat	87.27	No Admitido	Informática en Desarrollo de Software
+2019	Durán	Solís	Gerald	Liceo de Curridabat	87.12	No Admitido	Informática en Desarrollo de Software
+2019	Munguía	Hernández	Yoversy Manuel	Colegio Nocturno de La Unión	86.06	No Admitido	Informática en Desarrollo de Software
+2019	García	Castillo	Jonathan Otoniel	Colegio Alejandro Quesada Ramírez	84.58	No Admitido	Informática en Desarrollo de Software
+2019	Reyes	Calderón	Milton	Unidad Pedagógica San Diego	84.54	No Admitido	Informática en Desarrollo de Software
+2019	Segura	Chan	Eva Yeselyn	Unidad Pedagógica San Diego	83.84	No Admitido	Informática en Desarrollo de Software
+2019	Calvo	Prado	Mikel	Colegio Alejandro Quesada Ramírez	83.21	No Admitido	Informática en Desarrollo de Software
+2019	Villalobos	Zamora	Alí	Unidad Pedagógica San Diego	82.56	No Admitido	Informática en Desarrollo de Software
+2019	Vargas	Espinoza	Marco Andrey	Colegio Alejandro Quesada Ramírez	82.26	No Admitido	Informática en Desarrollo de Software
+2019	Morales	Uriarte	José Ismael	Liceo Nuevo de San Diego	81.63	No Admitido	Informática en Desarrollo de Software
+2019	Calvo	Guzmán	Melanie Michelle	Colegio Alejandro Quesada Ramírez	81.18	No Admitido	Informática en Desarrollo de Software
+2019	Manzanares	Jiménez	Andy Jesús	Liceo Nuevo de San Diego	79.70	No Admitido	Informática en Desarrollo de Software
+2019	Morales	Herrero	Anghelo Fabián	Colegio Alejandro Quesada Ramírez	79.63	No Admitido	Informática en Desarrollo de Software
+2019	Quesada	Aguilar	José Ignacio	Unidad Pedagógica San Diego	79.21	No Admitido	Informática en Desarrollo de Software
+2019	Fonseca	Marchena	Josué	Colegio de San Luis Gonzaga	78.95	No Admitido	Informática en Desarrollo de Software
+2019	Marín	Marenco	Javier Alejandro	Unidad Pedagógica San Diego	78.21	No Admitido	Informática en Desarrollo de Software
+2019	Sánchez	Castro	Sebastián	Centro Educativo Saint Josselin 	78.02	No Admitido	Informática en Desarrollo de Software
+2019	Delgado	Quintana	Adolfo Andrés	Liceo Nuevo de San Diego	77.80	No Admitido	Informática en Desarrollo de Software
+2019	Delgado	Calvo	Saúl Gerardo	Colegio del Sagrado Corazón de Jesús	77.39	No Admitido	Informática en Desarrollo de Software
+2019	Zúñiga	Garita	Sheyla	Colegio Alejandro Quesada Ramírez	76.25	No Admitido	Informática en Desarrollo de Software
+2019	Carranza	López	María Jireth	Unidad Pedagógica San Diego	77.25	Admitido	Dibujo Técnico
+2019	Castro	Carvajal	Daniela	Centro Educativo Saint Josselin 	75.30	Admitido	Dibujo Técnico
+2019	Rojas	Solís	Aldo André	Colegio de San Luis Gonzaga	74.60	Admitido	Dibujo Técnico
+2019	Artavia	Laj	Nicole	Unidad Pedagógica San Diego	73.28	Admitido	Dibujo Técnico
+2019	Mairena	Frávega	Nikky	Liceo Nuevo de San Diego	72.64	Admitido	Dibujo Técnico
+2019	Altamirano	Fletes	Katherine Massiel	Colegio Alejandro Quesada Ramírez	66.20	Admitido	Dibujo Técnico
+2019	Alvarado 	Pereira	Karla Fiorela	Liceo Nuevo de San Diego	65.06	No Admitido	Dibujo Técnico
+2019	Alcázar	Segura	José Manuel	Unidad Pedagógica San Diego	64.64	No Admitido	Dibujo Técnico
+2019	González	Montoya	Engel Valeria	Unidad Pedagógica San Diego	63.19	No Admitido	Dibujo Técnico
+2019	Vega	Campos	Dilan de Jesús 	Unidad Pedagógica San Diego	61.90	No Admitido	Dibujo Técnico
+2019	Valverde	Estrada	Ashly Cristina	Liceo de Curridabat	60.28	No Admitido	Dibujo Técnico
+2019	Zúñiga	Calvo	Antony	Colegio Alejandro Quesada Ramírez	54.00	No Admitido	Dibujo Técnico
+2019	Montoya	Cordero	Verónica Leonela	Unidad Pedagógica San Diego	81.61	No Admitido	Diseño y Confección de la Moda 
+2019	Esquivel	Castillo	Joselyn Daniela	Unidad Pedagógica San Diego	27.13	No Admitido	Diseño y Confección de la Moda 
+2019	Pereira	Araya	Ángel David	Liceo Nuevo de San Diego	88.30	Admitido	Informática en Redes de Computadoras
+2019	Díaz	González	Felipe	Unidad Pedagógica San Diego	87.57	Admitido	Informática en Redes de Computadoras
+2019	Aguilar	Zúñiga	Nathalia	Colegio Alejandro Quesada Ramírez	83.06	Admitido	Informática en Redes de Computadoras
+2019	Martínez	Hernández	Fabio Joan	Liceo Nuevo de San Diego	83.02	Admitido	Informática en Redes de Computadoras
+2019	Porras	Zuñiga	Geovannye Joshua	Liceo de Curridabat	82.84	No Admitido	Informática en Redes de Computadoras
+2019	Pérez	Fernández	Darren	Liceo de Curridabat	79.37	No Admitido	Informática en Redes de Computadoras
+2019	Morales	Uriarte	Emmanuel	Liceo Nuevo de San Diego	79.30	No Admitido	Informática en Redes de Computadoras
+2019	Sequeira	López	Álvaro Alejandro	Liceo de Curridabat	79.16	No Admitido	Informática en Redes de Computadoras
+2019	Amador	Astorga	María José	Unidad Pedagógica San Diego	78.74	No Admitido	Informática en Redes de Computadoras
+2019	Seijas	Armas	María Victoria	Escuela Liceo María Auxiliadora de San José 	78.45	No Admitido	Informática en Redes de Computadoras
+2019	Paíz	Mercado	Joher Uriel	Liceo Nuevo de San Diego	77.65	No Admitido	Informática en Redes de Computadoras
+2019	Pérez	Rivas	Brians Steven	Colegio Alejandro Quesada Ramírez	76.44	No Admitido	Informática en Redes de Computadoras
+2019	Romero	Fonseca	Randall	Unidad Pedagógica San Diego	74.99	No Admitido	Informática en Redes de Computadoras
+2019	Escobar	López	Daniel Alejandro	Liceo Nuevo de San Diego	74.83	No Admitido	Informática en Redes de Computadoras
+2019	Chavarría	Rodríguez	Keren Sofía	Liceo de Curridabat	26.98	No Admitido	Informática en Redes de Computadoras
+2019	Flores	Pérez	Sebastián	Colegio Alejandro Quesada Ramírez	79.46	No Admitido	Mecánica General
+2019	Segura	Cordero	Jafeth Mariano	Colegio Alejandro Quesada Ramírez	77.00	No Admitido	Mecánica General
+2019	Palma	Rugama	Edward José	Liceo Nuevo de San Diego	76.70	No Admitido	Mecánica General
+2019	Sánchez	Quesada	Keilyn Natalia	Colegio Técnico Máximo Quesada	75.83	No Admitido	Mecánica General
+2019	Sánchez	Castro	Paúl Gabriel	Liceo Nuevo de San Diego	73.32	No Admitido	Mecánica General
+2019	Jiménez	Segura	Alex Johan	Liceo Nuevo de San Diego	73.22	No Admitido	Mecánica General
+2019	Robles	Vargas	Jonathan	Liceo José Joaquín Vargas Calvo	65.04	No Admitido	Mecánica General
+2019	Campos	Calvo	José Mariano	Colegio de San Luis Gonzaga	33.56	No Admitido	Mecánica General
+2019	Díaz	Medina	Deborah Fabiola	Liceo Nuevo de San Diego	92.13	Admitido	Secretariado Ejecutivo
+2019	Jarquín	Bustos	Darlin Francela	Liceo Anastasio Alfaro	84.37	Admitido	Secretariado Ejecutivo
+2019	Estrada	Pomares	Karla Vanesa	Liceo Anastasio Alfaro	83.98	Admitido	Secretariado Ejecutivo
+2019	Guadamuz	Porras	Jimena	C. T. P. de Granadilla 	82.24	Admitido	Secretariado Ejecutivo
+2019	Pérez	Segura	Yolanda Nicole	Colegio Técnico Máximo Quesada	79.14	Admitido	Secretariado Ejecutivo
+2019	Araya	Fonseca	Tammy	Unidad Pedagógica San Diego	79.02	Admitido	Secretariado Ejecutivo
+2019	Vega	Sanabria	Katherine	Liceo Nuevo de San Diego	78.55	Admitido	Secretariado Ejecutivo
+2019	Montoya	Barrantes	Daniela María	Colegio Alejandro Quesada Ramírez	77.92	Admitido	Secretariado Ejecutivo
+2019	Rocha	Rivera	Yansi Tatiana	Unidad Pedagógica San Diego	72.14	Admitido	Secretariado Ejecutivo
+2019	Gutiérrez	Elizondo	Tracy Tatiana	Liceo Nuevo de San Diego	71.88	Admitido	Secretariado Ejecutivo
+2019	Martín	Acuña	Shanelka Franciny	Unidad Pedagógica San Diego	71.62	No Admitido	Secretariado Ejecutivo
+2019	Cubero	Villanueva	Jeffry Armando	Unidad Pedagógica San Diego	70.67	No Admitido	Secretariado Ejecutivo
+2019	Montoya	Rivera	Génesis	Liceo Nuevo de San Diego	70.02	No Admitido	Secretariado Ejecutivo
+2019	López	Quesada	María Guadalupe	Unidad Pedagógica San Diego	69.22	No Admitido	Secretariado Ejecutivo
+2019	Hernández	Gómez	Karla José	Unidad Educativa Colegio Independencia	67.96	No Admitido	Secretariado Ejecutivo
+2019	Ramírez 	Díaz	Angely Pamela	Colegio de Cedros	29.72	No Admitido	Secretariado Ejecutivo
+2019	Flores	Aguilar	Camila María	Colegio Alejandro Quesada Ramírez	24.96	No Admitido	Secretariado Ejecutivo
